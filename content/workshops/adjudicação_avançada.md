@@ -5,7 +5,7 @@ year: "2020"
 link: "rariyP7Yzn4"
 slides: ""
 authors: ['Ana Martins']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

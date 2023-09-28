@@ -5,7 +5,7 @@ year: "2019"
 link: "xrBi4gjkV6Q"
 slides: ""
 authors: ['Leonardo Dayrell']
-tags: []
+tags: ['Politics', 'Social Movements']
 layout: "workshop"
 categories: ["workshops"]
 ---

@@ -5,7 +5,7 @@ year: "2020"
 link: "POZGeXsdQiE"
 slides: ""
 authors: ['André Carvalho']
-tags: []
+tags: ['International Relations', 'Politics', 'Security, War and Military']
 layout: "workshop"
 categories: ["workshops"]
 ---

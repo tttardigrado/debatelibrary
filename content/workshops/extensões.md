@@ -5,7 +5,7 @@ year: "2023"
 link: "AXON4hgCSkI"
 slides: ""
 authors: ['Diogo Videira']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

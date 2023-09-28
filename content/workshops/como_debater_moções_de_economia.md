@@ -5,7 +5,7 @@ year: "2019"
 link: "6EPnQqTnzkI"
 slides: ""
 authors: ['Pedro González']
-tags: []
+tags: ['Economics']
 layout: "workshop"
 categories: ["workshops"]
 ---

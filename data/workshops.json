@@ -5,7 +5,7 @@
     , "link"   : "FQ0yhMMv2hA"
     , "slides" : ""
     , "authors": ["Gabriel Affonso"]
-    , "tags"   : [] 
+    , "tags"   : ["Política"] 
     },
     { "title"  : "Análise de Moções e PrepTime"
     , "lang"   : "Portuguese"
@@ -13,7 +13,7 @@
     , "link"   : "flzgvS7tupY"
     , "slides" : ""
     , "authors": ["Bruno da Costa Santos"]
-    , "tags"   : [] 
+    , "tags"   : ["Debate"] 
     },
     { "title"  : "Primeiro Ministro e Líder da Oposição"
     , "lang"   : "Portuguese"
@@ -21,7 +21,7 @@
     , "link"   : "U5u_I0JZTj8"
     , "slides" : ""
     , "authors": ["Ary Ferreira da Cunha"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Adjuntos"
     , "lang"   : "Portuguese"
@@ -29,7 +29,7 @@
     , "link"   : "PjZVa182LRo"
     , "slides" : ""
     , "authors": ["Frederico Oliveira"]
-    , "tags"   : [] 
+    , "tags"   : ["Debate"] 
     },
     { "title"  : "Extensões"
     , "lang"   : "Portuguese"
@@ -37,7 +37,7 @@
     , "link"   : "AXON4hgCSkI"
     , "slides" : ""
     , "authors": ["Diogo Videira"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Whips"
     , "lang"   : "Portuguese"
@@ -45,7 +45,7 @@
     , "link"   : "X3GUnYqWAP4"
     , "slides" : ""
     , "authors": ["Hermione"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Movimentos Sociais"
     , "lang"   : "Portuguese"
@@ -53,7 +53,7 @@
     , "link"   : "JjOdxny1Iis"
     , "slides" : ""
     , "authors": ["Carol Querino", "Hian Gualberto"]
-    , "tags"   : []
+    , "tags"   : ["Social Movements", "Feminism", "LGBTQIA+", "Minority Communities"]
     },
     { "title"  : "Arte"
     , "lang"   : "Portuguese"
@@ -61,7 +61,7 @@
     , "link"   : "kC-ESS0VAXk"
     , "slides" : ""
     , "authors": ["Fattha Mahmud"]
-    , "tags"   : []
+    , "tags"   : ["Art and Culture"]
     },
     { "title"  : "Como não ter um ataque de pânico em 1º governo"
     , "lang"   : "Portuguese"
@@ -69,7 +69,7 @@
     , "link"   : "oGDQM6ouS54"
     , "slides" : ""
     , "authors": ["Fattha Mahmud"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Comparatives"
     , "lang"   : "English"
@@ -77,7 +77,7 @@
     , "link"   : "bMDdwRSousQ"
     , "slides" : ""
     , "authors": ["Milla Huuskonen"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Medição de Impactos"
     , "lang"   : "Portuguese"
@@ -85,7 +85,7 @@
     , "link"   : "qn6B0_5PyRM"
     , "slides" : ""
     , "authors": ["David Greer"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Adjudicação Avançada"
     , "lang"   : "Portuguese"
@@ -93,7 +93,7 @@
     , "link"   : "rariyP7Yzn4"
     , "slides" : ""
     , "authors": ["Ana Martins"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Geopolítica Internacional"
     , "lang"   : "Portuguese"
@@ -101,7 +101,7 @@
     , "link"   : "POZGeXsdQiE"
     , "slides" : ""
     , "authors": ["André Carvalho"]
-    , "tags"   : []
+    , "tags"   : ["International Relations", "Politics", "Security, War and Military"]
     },
     { "title"  : "Como debater moções de Economia"
     , "lang"   : "Portuguese"
@@ -109,7 +109,7 @@
     , "link"   : "6EPnQqTnzkI"
     , "slides" : ""
     , "authors": ["Pedro González"]
-    , "tags"   : []
+    , "tags"   : ["Economics"]
     },
     { "title"  : "Dicas básicas para ter sucesso num Debate"
     , "lang"   : "Portuguese"
@@ -117,7 +117,7 @@
     , "link"   : "3uwLr2L58uQ"
     , "slides" : ""
     , "authors": ["Luísa Taveira", "Diogo Videira"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Sociologia Clássica"
     , "lang"   : "Portuguese"
@@ -125,7 +125,7 @@
     , "link"   : "xrBi4gjkV6Q"
     , "slides" : ""
     , "authors": ["Leonardo Dayrell"]
-    , "tags"   : []
+    , "tags"   : ["Politics", "Social Movements"]
     },
     { "title"  : "Feminismo"
     , "lang"   : "Portuguese"
@@ -133,7 +133,7 @@
     , "link"   : "alW9MDpiJOM"
     , "slides" : ""
     , "authors": ["Sofia Narciso"]
-    , "tags"   : []
+    , "tags"   : ["Social Movements", "Feminism"]
     },
     { "title"  : "Formação de Debate"
     , "lang"   : "Portuguese"
@@ -141,6 +141,6 @@
     , "link"   : "YhElDAuEi3k"
     , "slides" : "https://drive.google.com/file/d/1F6BH-Za-ypdhEOjMDmh5vofrQPUReAj0/view"
     , "authors": ["Diogo Videira"]
-    , "tags"   : []
+    , "tags"   : ["Debate"]
     }
 ]

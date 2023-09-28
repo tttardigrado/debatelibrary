@@ -5,7 +5,7 @@ year: "2019"
 link: "3uwLr2L58uQ"
 slides: ""
 authors: ['Luísa Taveira', 'Diogo Videira']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

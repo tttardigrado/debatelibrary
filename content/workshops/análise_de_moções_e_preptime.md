@@ -5,7 +5,7 @@ year: "2023"
 link: "flzgvS7tupY"
 slides: ""
 authors: ['Bruno da Costa Santos']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

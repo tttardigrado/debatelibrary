@@ -5,7 +5,7 @@ year: "2020"
 link: "qn6B0_5PyRM"
 slides: ""
 authors: ['David Greer']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

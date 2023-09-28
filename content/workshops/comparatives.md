@@ -5,7 +5,7 @@ year: "2020"
 link: "bMDdwRSousQ"
 slides: ""
 authors: ['Milla Huuskonen']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---

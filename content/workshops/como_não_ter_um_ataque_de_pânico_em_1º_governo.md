@@ -5,7 +5,7 @@ year: "2021"
 link: "oGDQM6ouS54"
 slides: ""
 authors: ['Fattha Mahmud']
-tags: []
+tags: ['Debate']
 layout: "workshop"
 categories: ["workshops"]
 ---
