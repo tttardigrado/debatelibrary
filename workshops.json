@@ -1,0 +1,146 @@
+[
+    { "title"  : "Formação Temática: Política"
+    , "lang"   : "Portuguese"
+    , "year"   : "2022"
+    , "link"   : "FQ0yhMMv2hA"
+    , "slides" : ""
+    , "authors": ["Gabriel Affonso"]
+    , "tags"   : [] 
+    },
+    { "title"  : "Análise de Moções e PrepTime"
+    , "lang"   : "Portuguese"
+    , "year"   : "2023"
+    , "link"   : "flzgvS7tupY"
+    , "slides" : ""
+    , "authors": ["Bruno da Costa Santos"]
+    , "tags"   : [] 
+    },
+    { "title"  : "Primeiro Ministro e Líder da Oposição"
+    , "lang"   : "Portuguese"
+    , "year"   : "2023"
+    , "link"   : "U5u_I0JZTj8"
+    , "slides" : ""
+    , "authors": ["Ary Ferreira da Cunha"]
+    , "tags"   : []
+    },
+    { "title"  : "Adjuntos"
+    , "lang"   : "Portuguese"
+    , "year"   : "2023"
+    , "link"   : "PjZVa182LRo"
+    , "slides" : ""
+    , "authors": ["Frederico Oliveira"]
+    , "tags"   : [] 
+    },
+    { "title"  : "Extensões"
+    , "lang"   : "Portuguese"
+    , "year"   : "2023"
+    , "link"   : "AXON4hgCSkI"
+    , "slides" : ""
+    , "authors": ["Diogo Videira"]
+    , "tags"   : []
+    },
+    { "title"  : "Whips"
+    , "lang"   : "Portuguese"
+    , "year"   : "2023"
+    , "link"   : "X3GUnYqWAP4"
+    , "slides" : ""
+    , "authors": ["Hermione"]
+    , "tags"   : []
+    },
+    { "title"  : "Movimentos Sociais"
+    , "lang"   : "Portuguese"
+    , "year"   : "2021"
+    , "link"   : "JjOdxny1Iis"
+    , "slides" : ""
+    , "authors": ["Carol Querino", "Hian Gualberto"]
+    , "tags"   : []
+    },
+    { "title"  : "Arte"
+    , "lang"   : "Portuguese"
+    , "year"   : "2021"
+    , "link"   : "kC-ESS0VAXk"
+    , "slides" : ""
+    , "authors": ["Fattha Mahmud"]
+    , "tags"   : []
+    },
+    { "title"  : "Como não ter um ataque de pânico em 1º governo"
+    , "lang"   : "Portuguese"
+    , "year"   : "2021"
+    , "link"   : "oGDQM6ouS54"
+    , "slides" : ""
+    , "authors": ["Fattha Mahmud"]
+    , "tags"   : []
+    },
+    { "title"  : "Comparatives"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "link"   : "bMDdwRSousQ"
+    , "slides" : ""
+    , "authors": ["Milla Huuskonen"]
+    , "tags"   : []
+    },
+    { "title"  : "Medição de Impactos"
+    , "lang"   : "Portuguese"
+    , "year"   : "2020"
+    , "link"   : "qn6B0_5PyRM"
+    , "slides" : ""
+    , "authors": ["David Greer"]
+    , "tags"   : []
+    },
+    { "title"  : "Adjudicação Avançada"
+    , "lang"   : "Portuguese"
+    , "year"   : "2020"
+    , "link"   : "rariyP7Yzn4"
+    , "slides" : ""
+    , "authors": ["Ana Martins"]
+    , "tags"   : []
+    },
+    { "title"  : "Geopolítica Internacional"
+    , "lang"   : "Portuguese"
+    , "year"   : "2020"
+    , "link"   : "POZGeXsdQiE"
+    , "slides" : ""
+    , "authors": ["André Carvalho"]
+    , "tags"   : []
+    },
+    { "title"  : "Como debater moções de Economia"
+    , "lang"   : "Portuguese"
+    , "year"   : "2019"
+    , "link"   : "6EPnQqTnzkI"
+    , "slides" : ""
+    , "authors": ["Pedro González"]
+    , "tags"   : []
+    },
+    { "title"  : "Dicas básicas para ter sucesso num Debate"
+    , "lang"   : "Portuguese"
+    , "year"   : "2019"
+    , "link"   : "3uwLr2L58uQ"
+    , "slides" : ""
+    , "authors": ["Luísa Taveira", "Diogo Videira"]
+    , "tags"   : []
+    },
+    { "title"  : "Sociologia Clássica"
+    , "lang"   : "Portuguese"
+    , "year"   : "2019"
+    , "link"   : "xrBi4gjkV6Q"
+    , "slides" : ""
+    , "authors": ["Leonardo Dayrell"]
+    , "tags"   : []
+    },
+    { "title"  : "Feminismo"
+    , "lang"   : "Portuguese"
+    , "year"   : "2019"
+    , "link"   : "alW9MDpiJOM"
+    , "slides" : ""
+    , "authors": ["Sofia Narciso"]
+    , "tags"   : []
+    },
+    { "title"  : "Formação de Debate"
+    , "lang"   : "Portuguese"
+    , "year"   : "2018"
+    , "link"   : "YhElDAuEi3k"
+    , "slides" : "https://drive.google.com/file/d/1F6BH-Za-ypdhEOjMDmh5vofrQPUReAj0/view"
+    , "authors": ["Diogo Videira"]
+    , "tags"   : []
+    }
+]

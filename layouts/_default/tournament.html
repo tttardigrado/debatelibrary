@@ -1,0 +1,69 @@
+{{ define "main" }}
+
+
+<nav aria-label="breadcrumb">
+    <ul>
+        <li><a href="/categories/tournaments">Tournaments</a></li>
+        <li> {{ .Title }} </li>
+    </ul>
+</nav>
+
+
+<section>
+    <h3> 
+        {{ .Title }} {{ mod .Params.year 100 }}
+        {{ if .Params.isMajor }} <small><i class="bi bi-patch-check"></i></small> {{ end }}
+    </h3>
+
+    
+    <details open>
+        <summary class="secondary">Tournament Details</summary>
+        <ul>
+            {{ with .Params.ca }}
+                <li>
+                    <strong>CA Team: </strong>
+                    {{ delimit . ", " " and "}}
+                </li>
+            {{ end }}
+
+            {{ with .Params.lang }}
+                <li><strong>Language: </strong> {{ . }}</li>
+            {{ end }}
+            
+            {{ with .Params.country }}
+                <li><strong>Country: </strong> {{ . }}</li>
+            {{ end }}
+            
+            {{ with .Params.city }}
+                <li><strong>City: </strong> {{ . }}</li>
+            {{ end }}
+
+            {{ with .Params.year }}
+                <li><strong>Year: </strong> {{ . }} </li>
+            {{ end }}
+
+            {{ with .Params.tab }}
+                <li>
+                    <strong>Tab: </strong>
+                    <a target="_blank" href="{{ . }}">link</a>
+                </li>
+            {{ end }}
+        </ul>
+    </details>
+</section>
+
+<section>
+    <h2>Motions</h2>
+
+    {{ range .Pages.ByWeight }}
+        <article>
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <footer style="padding-top: 0.5rem; padding-bottom: 0.5rem; display: flex; align-items: center; justify-content: space-between">
+                <span>{{ .Params.round }}</span>
+                {{ if .Params.infoSlide }} <ins>IS</ins> {{ end }}
+            </footer>
+        </article>
+    {{ end }}
+</section>
+
+{{ end }}

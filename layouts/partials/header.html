@@ -1,0 +1,19 @@
+<nav class="container">
+    <ul>
+        <li><a href="/" class="contrast"><strong>Debate Library</strong></a></li>
+    </ul>
+
+    <ul>
+        <li><a href="/about">About</a></li>
+        <li>
+          <details role="list" dir="rtl">
+            <summary aria-haspopup="listbox" role="link">Archive</summary>
+            <ul role="listbox">
+                {{ range site.Menus.main }}  
+                    <li><a href="{{ .PageRef }}"> {{ .Name }} &nbsp; <i class="bi {{ .Pre }}"></i></a></li>
+                {{ end }}
+            </ul>
+          </details>
+        </li>
+    </ul>
+</nav>

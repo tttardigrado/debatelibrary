@@ -1,0 +1,68 @@
+{{ define "main" }}
+
+
+<h1>{{ humanize .Title }}</h1>
+
+{{ if eq .Type "categories" }}
+    {{ $kind := .Title }}
+    {{ range sort .Pages ".Params.year" "desc" }}
+        {{ if eq $kind "tournaments" }}
+            <article>
+                <a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a>
+                <footer>
+                    <span>{{ .Params.lang }}</span>
+                    <span>{{ .Params.year }}</span>
+                </footer>
+            </article>
+        {{ else if eq $kind "motions" }}
+            <article>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <footer>
+                    <span>{{ .Parent.Title }} {{ mod .Parent.Params.year 100 }} </span>
+                    {{ if .Params.infoSlide }} <ins>IS</ins> {{ end }}
+                </footer>
+            </article>
+        {{ else if eq $kind "workshops" }}
+            <article>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <footer>
+                    <span>By {{ delimit .Params.authors "," "and" }} </span>
+                    <span>{{ .Params.year }}</span>
+                </footer>
+            </article>
+        {{ end }}
+    {{ end }}
+
+{{ else }}
+  
+    {{ with where .Pages "Params.categories" "intersect" (slice "motions") }}
+        <h2>Motions</h2>
+        {{ range . }}
+            <article>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <footer>
+                    <span>{{ .Parent.Title }} </span>
+                    {{ if .Params.infoSlide }} <ins>IS</ins> {{ end }}
+                </footer>
+            </article>
+        {{ end }}
+        <br><br>
+    {{ end }}
+
+    {{ with where .Pages "Params.categories" "intersect" (slice "workshops") }}
+        <h2>Workshops</h2>
+        {{ range . }}
+            <article>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+                <footer>
+                    <span>By {{ delimit .Params.authors "," "and" }} </span>
+                    <span>{{ .Params.year }}</span>
+                </footer>
+            </article>
+        {{ end }}
+        <br><br>
+    {{ end }}
+
+{{ end }}
+
+{{ end }}

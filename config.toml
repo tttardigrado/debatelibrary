@@ -1,0 +1,30 @@
+baseURL = "http://debatelibrary.netlify.app"
+languageCode = "en-us"
+title = "Debate Library"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+
+[menu]
+[[menu.main]]
+    name = 'Tournaments'
+    pageRef = '/categories/tournaments'
+    pre = 'bi-trophy'
+    weight = 10
+[[menu.main]]
+    name = 'Motions'
+    pageRef = '/categories/motions'
+    pre = 'bi-file-earmark-text'
+    weight = 20
+[[menu.main]]
+    name = 'Workshops'
+    pageRef = '/categories/workshops'
+    pre = 'bi-easel'
+    weight = 30
+[[menu.main]]
+    name = 'Tags'
+    pageRef = '/tags'
+    pre = 'bi-tags'
+    weight = 40

@@ -1,0 +1,44 @@
+{{ define "main" }}
+
+<nav aria-label="breadcrumb">
+    <ul>
+        <li><a href="/categories/tournaments">Tournaments</a></li>
+        <li><a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a></li>
+        <li>{{ .Params.round }}</li>
+    </ul>
+</nav>
+
+<section data-pagefind-body>
+    <h3 data-pagefind-meta="title" style="margin-bottom: 1rem;">
+        {{ .Params.title }}
+    </h3>
+
+    {{ partial "tags.html" . }}
+
+    {{ with .Params.infoSlide }}
+        <details open>
+            <summary class="secondary">Info Slide</summary>
+            {{ . }}
+        </details>
+    {{ end }}
+
+</section>
+    
+{{ with .Params.videos }}
+    <section>
+        <h3>Recordings of the Round:</h3>
+
+        {{ range $id := . }}
+            <article>
+                <img style="border-radius:4px;" src="https://i3.ytimg.com/vi/{{ $id }}/maxresdefault.jpg" alt="video thumbnail">
+                <br/><br/>
+                <a href="https://www.youtube.com/watch?v={{ $id }}" target="_blank" role="button">Watch</a>
+            </article>
+        {{ end }}
+
+    </section>
+{{ end }}
+
+
+
+{{ end }}

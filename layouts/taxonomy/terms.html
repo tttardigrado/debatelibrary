@@ -1,0 +1,13 @@
+{{ define "main" }}
+    
+<h1>{{ .Title }}</h1>
+
+<div>
+
+    {{ range .Pages }}
+        <kbd><a href="{{.Permalink}}" class="secondary"> <i class="bi bi-tag"></i> {{ .Title }} </a></kbd>
+    {{ end }}
+
+</div>
+
+{{ end }}
