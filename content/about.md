@@ -6,16 +6,15 @@ layout: "about"
 # About
 
 Madam Chair, the debaters all around the world, and no matter what country in which they live, currently live in a system of dictatorship. 
-They live under a dictatorship known as the lack of organized knowledge, shackled by not knowing about it's existence, constrained by workshops and recorded rounds being spread across several obscure youtube channels, and chained by the fact that heroku has killed most tabs.
+They live under a dictatorship known as the lack of organized knowledge, shackled by not knowing about its existence, constrained by workshops and recorded rounds being spread across several obscure youtube channels, and chained by the fact that heroku has killed most tabs.
 They’re unable to reach out to their full potential as debaters.
 
 How are we going to define a **Debate Library** in this debate. We say that in all its forms, it shares the feature of wanting to organize debate knowledge in a single website. That’s what a **Debate Library** means. This knowledge can take the form of **Tournaments**, **Motions**, **Recorded Rounds** and **Workshops**.
 
 **Debate Library** has been inspired by multiple projects (such as 
     [marxists.org](https://www.marxists.org/),
-    [The Anarchist Library](https://theanarchistlibrary.org/), 
-    [nLab](https://ncatlab.org/),
-    [Learn X in Y Minutes](https://learnxinyminutes.com/))
+    [The Anarchist Library](https://theanarchistlibrary.org/) and  
+    [nLab](https://ncatlab.org/))
 that share the goal of gathering and organizing knowledge about their specific domains.
 
 **We are very proud to propose.**
@@ -43,7 +42,7 @@ The vast majority of the content on this website was not created by me. The **De
 
 ## I Want to help
 First of all, thank you. There are multiple ways of helping depending on your background:
-* If you are familiarized with HTML/CSS, Hugo or web programming in general and want to help with the website itself, feel free to submit pull requests [here]().
+* If you are familiarized with HTML/CSS, Hugo or web programming in general and want to help with the website itself, feel free to submit pull requests [here](https://github.com/tttardigrado/debatelibrary).
 
 * If have a favourite workshop, podcast, or other kind of debate resource that is not in the **Debate Library**, please submit it in the [add content form](https://forms.gle/NAbfJBJvqSVfSE4BA) and I'll try to add it as soon as possible. 
 

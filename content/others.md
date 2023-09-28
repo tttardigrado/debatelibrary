@@ -12,11 +12,18 @@ layout: "others"
 ---
 
 ## PDF's & Spreadsheets
+* [Global Debating Spreadsheet](https://docs.google.com/spreadsheets/u/6/d/1R9s3MAh1H_7rJ9NQhO18p6o7bvekrIDTk27l7emXk6o/)
 
 ---
 
 ## Facebook Groups
+* [Debate Seriousposting](https://www.facebook.com/groups/communistcasefile/)
+* [Debate Shitposting](https://www.facebook.com/groups/1369733616370998/)
 
 ---
 
 ## Websites
+* [Finally, a Feminism 101 Blog](https://finallyfeminism101.wordpress.com/)
+* [Marxists.org](https://www.marxists.org/)
+* [The Anarchist Library](https://theanarchistlibrary.org/special/index)
+* [Eh Priori](https://ehpriori.com/)

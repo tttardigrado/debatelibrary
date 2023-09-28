@@ -24,7 +24,12 @@ title = "Debate Library"
     pre = 'bi-easel'
     weight = 30
 [[menu.main]]
+    name = 'Other Resources'
+    pageRef = '/others'
+    pre = 'bi-three-dots'
+    weight = 40
+[[menu.main]]
     name = 'Tags'
     pageRef = '/tags'
     pre = 'bi-tags'
-    weight = 40
+    weight = 50
