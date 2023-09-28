@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Debate Library</title><link>http://debatelibrary.netlify.app/tags/technology/</link><description>Recent content in Technology on Debate Library</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="http://debatelibrary.netlify.app/tags/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>This House Hopes that the future of humanity is transhumanism</title><link>http://debatelibrary.netlify.app/tournaments/eudc_2023/esl_semis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://debatelibrary.netlify.app/tournaments/eudc_2023/esl_semis/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/tags/technology/</link>
+    <description>Recent content in Technology on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This House Hopes that the future of humanity is transhumanism</title>
+      <link>http://debatelibrary.netlify.app/tournaments/eudc_2023/esl_semis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/tournaments/eudc_2023/esl_semis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,12 +6,13 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 # remove old content
 rm -rf ./content/tournaments
 rm -rf ./content/workshops
+rm -rf ./public
 
 # generate new content
 debategen
 
 # build the static site with hugo
-hugo --minify
+hugo
 
 # run pagefind to generate the search index
 ##### TODO:
