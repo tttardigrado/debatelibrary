@@ -41,7 +41,7 @@
             <article>
                 <a href="{{ .Permalink }}">{{ .Title }}</a>
                 <footer>
-                    <span>{{ .Parent.Title }} </span>
+                    <span>{{ .Parent.Title }} {{mod .Parent.Params.year 100 }}</span>
                     {{ if .Params.infoSlide }} <ins>IS</ins> {{ end }}
                 </footer>
             </article>
