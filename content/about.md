@@ -11,11 +11,7 @@ They’re unable to reach out to their full potential as debaters.
 
 How are we going to define a **Debate Library** in this debate. We say that in all its forms, it shares the feature of wanting to organize debate knowledge in a single website. That’s what a **Debate Library** means. This knowledge can take the form of **Tournaments**, **Motions**, **Recorded Rounds** and **Workshops**.
 
-**Debate Library** has been inspired by multiple projects (such as 
-    [marxists.org](https://www.marxists.org/),
-    [The Anarchist Library](https://theanarchistlibrary.org/) and  
-    [nLab](https://ncatlab.org/))
-that share the goal of gathering and organizing knowledge about their specific domains.
+**Debate Library** has been inspired by multiple projects (such as [marxists.org](https://www.marxists.org/), [The Anarchist Library](https://theanarchistlibrary.org/) and [nLab](https://ncatlab.org/)) that share the goal of gathering and organizing knowledge about their specific domains.
 
 **We are very proud to propose.**
 
