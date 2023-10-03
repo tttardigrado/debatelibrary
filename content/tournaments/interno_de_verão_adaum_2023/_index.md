@@ -5,7 +5,7 @@ lang: "Portuguese"
 tab: "https://debatecompetitivo.herokuapp.com/open_catolica_porto_2023/"
 country: "Portugal"
 city: "Guimarães"
-ca: ['Marcelo Campos', 'Hermione', 'João Torres', 'Ana Lopes']
+authors: ['Marcelo Campos', 'Hermione', 'João Torres', 'Ana Lopes']
 isMajor: False
 layout: "tournament"
 categories: ["tournaments"]

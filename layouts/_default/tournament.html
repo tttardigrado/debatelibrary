@@ -19,7 +19,7 @@
     <details open>
         <summary class="secondary">Tournament Details</summary>
         <ul>
-            {{ with .Params.ca }}
+            {{ with .Params.authors }}
                 <li>
                     <strong>CA Team: </strong>
                     {{ delimit . ", " " and "}}
@@ -58,7 +58,7 @@
     {{ range .Pages.ByWeight }}
         <article>
             <a href="{{ .Permalink }}">{{ .Title }}</a>
-            <footer style="padding-top: 0.5rem; padding-bottom: 0.5rem; display: flex; align-items: center; justify-content: space-between">
+            <footer>
                 <span>{{ .Params.round }}</span>
                 {{ if .Params.infoSlide }} <ins>IS</ins> {{ end }}
             </footer>

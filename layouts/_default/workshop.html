@@ -1,26 +1,43 @@
 {{ define "main" }}
 
 <section>
-    <hgroup>
-        <h3 data-pagefind-meta="title">{{ .Title }}</h3>
-        <h2>By {{ delimit .Params.authors ", " " and " }} &nbsp; - &nbsp; {{ .Params.year }}</h2>
-    </hgroup>        
+    <h3 data-pagefind-meta="title">{{ .Title }}</h3>
 
     {{ partial "tags.html" . }}
 
+    
+    <details open>
+        <summary class="secondary">Workshop Details</summary>
+        <ul>
+            {{ with .Params.authors }}
+                <li>
+                    <strong>By: </strong>
+                    {{ delimit . ", " " and "}}
+                </li>
+            {{ end }}
+
+            {{ with .Params.slides }}
+                <li>
+                    <strong>Slides: </strong>
+                    <a target="_blank" href="{{ . }}">link</a>
+                </li>
+            {{ end }}
+
+            {{ with .Params.lang }}
+                <li><strong>Language: </strong> {{ . }}</li>
+            {{ end }}
+            
+            {{ with .Params.year }}
+                <li><strong>Year: </strong> {{ . }} </li>
+            {{ end }}
+        </ul>
+    </details>
 </section>
 
 <section>
-    <article>
-        <img src="https://i3.ytimg.com/vi/{{ .Params.link }}/hqdefault.jpg" alt="video thumbnail">
-        <br/><br/>
-        <div>
-            <a href="https://www.youtube.com/watch?v={{ .Params.link }}" target="_blank" role="button">Watch</a>
-            {{ with .Params.slides }}
-                <a class="secondary" href="{{ . }}" target="_blank" role="button">Slides</a>    
-            {{ end }}
-        </div>
-    </article>
+    {{ range .Params.links }}
+        {{ partial "video_card.html" . }}
+    {{ end }}
 </section>
 
 {{ end }}

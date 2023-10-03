@@ -1,5 +1,5 @@
 ---
-title: "Other Kinds of Resources"
+title: "Other Resources"
 layout: "others"
 ---
 
@@ -13,6 +13,8 @@ layout: "others"
 
 ## PDF's & Spreadsheets
 * [Global Debating Spreadsheet](https://docs.google.com/spreadsheets/u/6/d/1R9s3MAh1H_7rJ9NQhO18p6o7bvekrIDTk27l7emXk6o/)
+* [How to Break at an International](https://joemayes.files.wordpress.com/2020/06/joemayesadvice-1.pdf)
+* [WUDC judging manual](https://drive.google.com/drive/folders/1juLYZFirWe8rTNx0tToZwcMWg2nYvR-n)
 
 ---
 

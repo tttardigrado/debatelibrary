@@ -5,7 +5,7 @@ lang: "English"
 tab: "https://eudc2023.calicotab.com/"
 country: "Bulgaria"
 city: "Бургас"
-ca: ['Hadar Goldberg', 'Milos Marjanovic', 'Geneva Roy', 'Josef Moscovici', 'Klaudia Maciejewska']
+authors: ['Hadar Goldberg', 'Milos Marjanovic', 'Geneva Roy', 'Josef Moscovici', 'Klaudia Maciejewska']
 isMajor: True
 layout: "tournament"
 categories: ["tournaments"]

@@ -28,12 +28,8 @@
     <section>
         <h3>Recordings of the Round:</h3>
 
-        {{ range $id := . }}
-            <article>
-                <img style="border-radius:4px;" src="https://i3.ytimg.com/vi/{{ $id }}/maxresdefault.jpg" alt="video thumbnail">
-                <br/><br/>
-                <a href="https://www.youtube.com/watch?v={{ $id }}" target="_blank" role="button">Watch</a>
-            </article>
+        {{ range . }}
+            {{ partial "video_card.html" . }}
         {{ end }}
 
     </section>

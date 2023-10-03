@@ -2,7 +2,7 @@
 title: "Comparatives"
 lang: "English"
 year: "2020"
-link: "bMDdwRSousQ"
+links: ['bMDdwRSousQ']
 slides: ""
 authors: ['Milla Huuskonen']
 tags: ['Debate']

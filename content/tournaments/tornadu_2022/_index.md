@@ -5,7 +5,7 @@ lang: "Portuguese"
 tab: "https://debatecompetitivo.herokuapp.com/tornadu_2022/"
 country: "Portugal"
 city: "Braga"
-ca: ['Hermione', 'Bee Barbosa', 'Frederico Oliveira', 'Tomás Correia', 'Klaudia Maciejewska']
+authors: ['Hermione', 'Bee Barbosa', 'Frederico Oliveira', 'Tomás Correia']
 isMajor: False
 layout: "tournament"
 categories: ["tournaments"]

@@ -322,7 +322,7 @@
 
     { "name"   : "TorNaDU"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/tornadu_2022/"
-    , "ca"     : ["Hermione", "Bee Barbosa", "Frederico Oliveira", "Tomás Correia", "Klaudia Maciejewska"]
+    , "ca"     : ["Hermione", "Bee Barbosa", "Frederico Oliveira", "Tomás Correia"]
     , "isMajor": false
     , "year"   : 2022
     , "lang"   : "Portuguese"

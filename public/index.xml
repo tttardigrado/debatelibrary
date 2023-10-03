@@ -912,7 +912,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/about/</guid>
-      <description>About Madam Chair, the debaters all around the world, and no matter what country in which they live, currently live in a system of dictatorship. They live under a dictatorship known as the lack of organized knowledge, shackled by not knowing about its existence, constrained by workshops and recorded rounds being spread across several obscure youtube channels, and chained by the fact that heroku has killed most tabs. They’re unable to reach out to their full potential as debaters.</description>
+      <description>About Madam Chair, the debaters all around the world, and no matter what country in which they live, currently live in a system of dictatorship. They live under a dictatorship known as the lack of organized knowledge, shackled by not knowing about its existence, constrained by workshops and recorded rounds being spread across several obscure youtube channels, and chained by the fact that heroku has killed most of the tabs. They’re unable to reach out to their full potential as debaters.</description>
     </item>
     
     <item>
@@ -930,6 +930,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/adjuntos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis Module</title>
+      <link>http://debatelibrary.netlify.app/workshops/analysis_module/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/analysis_module/</guid>
       <description></description>
     </item>
     
@@ -1051,12 +1060,12 @@
     </item>
     
     <item>
-      <title>Other Kinds of Resources</title>
+      <title>Other Resources</title>
       <link>http://debatelibrary.netlify.app/others/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/others/</guid>
-      <description>Podcasts  Structural Reasons SpeakEasy Debating Debatable   PDF&amp;rsquo;s &amp;amp; Spreadsheets  Global Debating Spreadsheet   Facebook Groups  Debate Seriousposting Debate Shitposting   Websites  Finally, a Feminism 101 Blog Marxists.org The Anarchist Library Eh Priori  </description>
+      <description>Podcasts  Structural Reasons SpeakEasy Debating Debatable   PDF&amp;rsquo;s &amp;amp; Spreadsheets  Global Debating Spreadsheet How to Break at an International WUDC judging manual   Facebook Groups  Debate Seriousposting Debate Shitposting   Websites  Finally, a Feminism 101 Blog Marxists.org The Anarchist Library Eh Priori  </description>
     </item>
     
     <item>
@@ -1078,11 +1087,29 @@
     </item>
     
     <item>
+      <title>Whipping the debate into shape</title>
+      <link>http://debatelibrary.netlify.app/workshops/whipping_the_debate_into_shape/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/whipping_the_debate_into_shape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Whips</title>
       <link>http://debatelibrary.netlify.app/workshops/whips/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/whips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Winning in OG Like an OG</title>
+      <link>http://debatelibrary.netlify.app/workshops/winning_in_og_like_an_og/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/winning_in_og_like_an_og/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 title: "Geopolítica Internacional"
 lang: "Portuguese"
 year: "2020"
-link: "POZGeXsdQiE"
+links: ['POZGeXsdQiE']
 slides: ""
 authors: ['André Carvalho']
 tags: ['International Relations', 'Politics', 'Security, War and Military']

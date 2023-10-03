@@ -1,8 +1,40 @@
 [
+    { "title"  : "Winning in OG Like an OG"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["5RSVnsywbfA"]
+    , "slides" : "https://docs.google.com/presentation/d/1jcaU57W27xEpE3fDPpttM5hRTUPCvbNUBuRU_SJXtfk/edit#slide=id.p"
+    , "authors": ["Matt Caito"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Whipping the debate into shape"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["dNqYEoJoXQY"]
+    , "slides" : ""
+    , "authors": ["Tobi Leung"]
+    , "tags"   : ["Debate"] 
+    },
+    { "title"  : "Analysis Module"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["P6xHSI_85O4", "V0bG_P0WNOQ", "kwsamZyGbDU", "HqR79I1QZc8", "kADAek1SCgI", "FTL6X6qiod8", "f7FUtQfJb6E", "xHnvc6gS7Dk"]
+    , "slides" : ""
+    , "authors": ["Hadar Goldberg"]
+    , "tags"   : ["Debate"] 
+    },
+    { "title"  : "Whipping the debate into shape"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["dNqYEoJoXQY"]
+    , "slides" : ""
+    , "authors": ["Tobi Leung"]
+    , "tags"   : ["Debate"] 
+    },
     { "title"  : "Formação Temática: Política"
     , "lang"   : "Portuguese"
     , "year"   : "2022"
-    , "link"   : "FQ0yhMMv2hA"
+    , "links"   : ["FQ0yhMMv2hA"]
     , "slides" : ""
     , "authors": ["Gabriel Affonso"]
     , "tags"   : ["Política"] 
@@ -10,7 +42,7 @@
     { "title"  : "Análise de Moções e PrepTime"
     , "lang"   : "Portuguese"
     , "year"   : "2023"
-    , "link"   : "flzgvS7tupY"
+    , "links"   : ["flzgvS7tupY"]
     , "slides" : ""
     , "authors": ["Bruno da Costa Santos"]
     , "tags"   : ["Debate"] 
@@ -18,7 +50,7 @@
     { "title"  : "Primeiro Ministro e Líder da Oposição"
     , "lang"   : "Portuguese"
     , "year"   : "2023"
-    , "link"   : "U5u_I0JZTj8"
+    , "links"   : ["U5u_I0JZTj8"]
     , "slides" : ""
     , "authors": ["Ary Ferreira da Cunha"]
     , "tags"   : ["Debate"]
@@ -26,7 +58,7 @@
     { "title"  : "Adjuntos"
     , "lang"   : "Portuguese"
     , "year"   : "2023"
-    , "link"   : "PjZVa182LRo"
+    , "links"   : ["PjZVa182LRo"]
     , "slides" : ""
     , "authors": ["Frederico Oliveira"]
     , "tags"   : ["Debate"] 
@@ -34,7 +66,7 @@
     { "title"  : "Extensões"
     , "lang"   : "Portuguese"
     , "year"   : "2023"
-    , "link"   : "AXON4hgCSkI"
+    , "links"   : ["AXON4hgCSkI"]
     , "slides" : ""
     , "authors": ["Diogo Videira"]
     , "tags"   : ["Debate"]
@@ -42,7 +74,7 @@
     { "title"  : "Whips"
     , "lang"   : "Portuguese"
     , "year"   : "2023"
-    , "link"   : "X3GUnYqWAP4"
+    , "links"   : ["X3GUnYqWAP4"]
     , "slides" : ""
     , "authors": ["Hermione"]
     , "tags"   : ["Debate"]
@@ -50,7 +82,7 @@
     { "title"  : "Movimentos Sociais"
     , "lang"   : "Portuguese"
     , "year"   : "2021"
-    , "link"   : "JjOdxny1Iis"
+    , "links"   : ["JjOdxny1Iis"]
     , "slides" : ""
     , "authors": ["Carol Querino", "Hian Gualberto"]
     , "tags"   : ["Social Movements", "Feminism", "LGBTQIA+", "Minority Communities"]
@@ -58,7 +90,7 @@
     { "title"  : "Arte"
     , "lang"   : "Portuguese"
     , "year"   : "2021"
-    , "link"   : "kC-ESS0VAXk"
+    , "links"   : ["kC-ESS0VAXk"]
     , "slides" : ""
     , "authors": ["Fattha Mahmud"]
     , "tags"   : ["Art and Culture"]
@@ -66,7 +98,7 @@
     { "title"  : "Como não ter um ataque de pânico em 1º governo"
     , "lang"   : "Portuguese"
     , "year"   : "2021"
-    , "link"   : "oGDQM6ouS54"
+    , "links"   : ["oGDQM6ouS54"]
     , "slides" : ""
     , "authors": ["Fattha Mahmud"]
     , "tags"   : ["Debate"]
@@ -74,7 +106,7 @@
     { "title"  : "Comparatives"
     , "lang"   : "English"
     , "year"   : "2020"
-    , "link"   : "bMDdwRSousQ"
+    , "links"   : ["bMDdwRSousQ"]
     , "slides" : ""
     , "authors": ["Milla Huuskonen"]
     , "tags"   : ["Debate"]
@@ -82,7 +114,7 @@
     { "title"  : "Medição de Impactos"
     , "lang"   : "Portuguese"
     , "year"   : "2020"
-    , "link"   : "qn6B0_5PyRM"
+    , "links"   : ["qn6B0_5PyRM"]
     , "slides" : ""
     , "authors": ["David Greer"]
     , "tags"   : ["Debate"]
@@ -90,7 +122,7 @@
     { "title"  : "Adjudicação Avançada"
     , "lang"   : "Portuguese"
     , "year"   : "2020"
-    , "link"   : "rariyP7Yzn4"
+    , "links"   : ["rariyP7Yzn4"]
     , "slides" : ""
     , "authors": ["Ana Martins"]
     , "tags"   : ["Debate"]
@@ -98,7 +130,7 @@
     { "title"  : "Geopolítica Internacional"
     , "lang"   : "Portuguese"
     , "year"   : "2020"
-    , "link"   : "POZGeXsdQiE"
+    , "links"   : ["POZGeXsdQiE"]
     , "slides" : ""
     , "authors": ["André Carvalho"]
     , "tags"   : ["International Relations", "Politics", "Security, War and Military"]
@@ -106,7 +138,7 @@
     { "title"  : "Como debater moções de Economia"
     , "lang"   : "Portuguese"
     , "year"   : "2019"
-    , "link"   : "6EPnQqTnzkI"
+    , "links"   : ["6EPnQqTnzkI"]
     , "slides" : ""
     , "authors": ["Pedro González"]
     , "tags"   : ["Economics"]
@@ -114,7 +146,7 @@
     { "title"  : "Dicas básicas para ter sucesso num Debate"
     , "lang"   : "Portuguese"
     , "year"   : "2019"
-    , "link"   : "3uwLr2L58uQ"
+    , "links"   : ["3uwLr2L58uQ"]
     , "slides" : ""
     , "authors": ["Luísa Taveira", "Diogo Videira"]
     , "tags"   : ["Debate"]
@@ -122,7 +154,7 @@
     { "title"  : "Sociologia Clássica"
     , "lang"   : "Portuguese"
     , "year"   : "2019"
-    , "link"   : "xrBi4gjkV6Q"
+    , "links"   : ["xrBi4gjkV6Q"]
     , "slides" : ""
     , "authors": ["Leonardo Dayrell"]
     , "tags"   : ["Politics", "Social Movements"]
@@ -130,7 +162,7 @@
     { "title"  : "Feminismo"
     , "lang"   : "Portuguese"
     , "year"   : "2019"
-    , "link"   : "alW9MDpiJOM"
+    , "links"   : ["alW9MDpiJOM"]
     , "slides" : ""
     , "authors": ["Sofia Narciso"]
     , "tags"   : ["Social Movements", "Feminism"]
@@ -138,7 +170,7 @@
     { "title"  : "Formação de Debate"
     , "lang"   : "Portuguese"
     , "year"   : "2018"
-    , "link"   : "YhElDAuEi3k"
+    , "links"   : ["YhElDAuEi3k"]
     , "slides" : "https://drive.google.com/file/d/1F6BH-Za-ypdhEOjMDmh5vofrQPUReAj0/view"
     , "authors": ["Diogo Videira"]
     , "tags"   : ["Debate"]
