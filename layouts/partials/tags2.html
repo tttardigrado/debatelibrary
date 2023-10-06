@@ -1,6 +1,6 @@
 {{ with .Params.tags }}
-    <li>
-        <strong>Tags: </strong>
+    <p>
+        Tags:
         <small>
             {{ range $tag := . }}
                 <kbd data-pagefind-filter="filter">
@@ -10,5 +10,5 @@
                 </kbd>
             {{ end }}
         </small>
-    </li>
+    </p>
 {{ end }}

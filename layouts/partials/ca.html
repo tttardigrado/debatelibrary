@@ -1,0 +1,14 @@
+{{ with .Params.authors }}
+    <li>
+        <small>
+            <strong>CA Team: </strong>    
+            {{ range $ca := . }}
+                <kbd data-pagefind-filter="filter">
+                    <a href="/authors/{{ anchorize $ca }}">
+                        <i class="bi bi-person"></i> {{ $ca }}
+                    </a>
+                </kbd>
+            {{ end }}
+        </small>
+    </li>
+{{ end }}

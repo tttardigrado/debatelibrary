@@ -3,17 +3,15 @@
 <section>
     <h3 data-pagefind-meta="title">{{ .Title }}</h3>
 
-    {{ partial "tags.html" . }}
-
-    
     <details open>
         <summary class="secondary">Workshop Details</summary>
         <ul>
-            {{ with .Params.authors }}
-                <li>
-                    <strong>By: </strong>
-                    {{ delimit . ", " " and "}}
-                </li>
+            {{ with .Params.lang }}
+                <li><strong>Language: </strong> {{ . }}</li>
+            {{ end }}
+            
+            {{ with .Params.year }}
+                <li><strong>Year: </strong> {{ . }} </li>
             {{ end }}
 
             {{ with .Params.slides }}
@@ -23,13 +21,9 @@
                 </li>
             {{ end }}
 
-            {{ with .Params.lang }}
-                <li><strong>Language: </strong> {{ . }}</li>
-            {{ end }}
-            
-            {{ with .Params.year }}
-                <li><strong>Year: </strong> {{ . }} </li>
-            {{ end }}
+            {{ partial "by.html" . }}
+
+            {{ partial "tags.html" . }}
         </ul>
     </details>
 </section>
