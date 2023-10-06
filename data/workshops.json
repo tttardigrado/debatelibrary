@@ -1,4 +1,116 @@
 [
+    { "title"  : "Structuring Arguments"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["quBspwMlgUw"]
+    , "slides" : "https://drive.google.com/file/d/1Fk0tBK3H9hm0qCxNBn91ekBT-4RPNHF1/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Prep Time Efficiency"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["4HHH_XIvDP4"]
+    , "slides" : "https://drive.google.com/file/d/1MoA-XVNRXY-tbbNEg2Ol4kAkUXX3g5rD/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Characterisations & Framing"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["hFl3v8dcYoA"]
+    , "slides" : "https://drive.google.com/file/d/1goSQOY_LS03wJiEYxzlxmeufyrVLQ_kI/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Rebuttal & Engagement"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["twPzlBM9lAk"]
+    , "slides" : "https://drive.google.com/file/d/1ZYX0_s28A7S2G0A0HrxIgcvFoAT8kvAH/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "First Speeches (PM/LO & Extension)"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["pXkpwMQbMKo"]
+    , "slides" : "https://drive.google.com/file/d/1l6rHpZ942hHLe7cXABTsnEjVEbYeo8VC/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Second Speeches (Whip & Deputy)"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["rMlcAO_PdLE"]
+    , "slides" : "https://drive.google.com/file/d/1qmSTQe5KRMBrLGepfQS2n0zj0yyEkv1I/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Actor Analysis - Individuals, Psychology and Narratives"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["hN55gM0f4dw"]
+    , "slides" : "https://drive.google.com/file/d/14J2G6qeHFvzGhTVITwHYXr-gm8eK0cah/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Actor Analysis - Social Movements"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["t2-RrvOtf0M"]
+    , "slides" : "https://drive.google.com/file/d/1oXX3ajIPbliZpFC1CS-BvrlBegh13f7g/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Actor Analysis - States & International Actors"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["CtvGY4rimec"]
+    , "slides" : "https://drive.google.com/file/d/1d5hP3l8zusBG36SwuZTCWSiPbRGkeDRP/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Advanced Judging"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"  : ["g8En6RPpu2w"]
+    , "slides" : "https://drive.google.com/file/d/1R3vqWSJyCZNqT3UXVSdK4-s8Oj4goWGU/view"
+    , "authors": ["Jacklin Kwan", "Lucie Slamova"]
+    , "tags"   : ["Judging"]
+    },
+    { "title"  : "Preparing for EUDC"
+    , "lang"   : "English"
+    , "year"   : "2015"
+    , "links"   : ["JUt0hWJwB4M"]
+    , "slides" : ""
+    , "authors": ["Amanda Moorghen"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Have you proved what you said you were going to?"
+    , "lang"   : "English"
+    , "year"   : "2015"
+    , "links"   : ["qfJbssTRbPw"]
+    , "slides" : ""
+    , "authors": ["Cerys Bradley"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "How to win debates without really making arguments"
+    , "lang"   : "English"
+    , "year"   : "2015"
+    , "links"   : ["Xd_8jrid_mk"]
+    , "slides" : ""
+    , "authors": ["Adam Hawksbee"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "SUPER SHINY PRINCIPLED ARGUMENTS"
+    , "lang"   : "English"
+    , "year"   : "2019"
+    , "links"   : ["e5pJ2oomZbM", "F4SUMqmWlaw"]
+    , "slides" : ""
+    , "authors": ["Ashish Kumar"]
+    , "tags"   : ["Principles"]
+    },
     { "title"  : "Winning in OG Like an OG"
     , "lang"   : "English"
     , "year"   : "2022"
@@ -125,7 +237,7 @@
     , "links"   : ["rariyP7Yzn4"]
     , "slides" : ""
     , "authors": ["Ana Martins"]
-    , "tags"   : ["Debate"]
+    , "tags"   : ["Judging"]
     },
     { "title"  : "Geopolítica Internacional"
     , "lang"   : "Portuguese"

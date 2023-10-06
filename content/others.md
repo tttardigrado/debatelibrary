@@ -25,6 +25,8 @@ layout: "others"
 ---
 
 ## Websites
+* [Build a Case](https://buildacase.ca/)
+* [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 * [Finally, a Feminism 101 Blog](https://finallyfeminism101.wordpress.com/)
 * [Marxists.org](https://www.marxists.org/)
 * [The Anarchist Library](https://theanarchistlibrary.org/special/index)
