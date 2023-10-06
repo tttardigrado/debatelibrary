@@ -28,7 +28,6 @@
                 <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>        
             {{ end }}
         </ul>
-        <br><br>
     {{ end }}
 
     {{ with where .Pages "Params.categories" "intersect" (slice "tournaments") }}
@@ -38,7 +37,6 @@
                 <li><a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a></li>
             {{ end }}
         </ul>
-        <br><br>
     {{ end }}
 
     {{ with where .Pages "Params.categories" "intersect" (slice "motions") }}
@@ -48,7 +46,6 @@
                 <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
             {{ end }}
         </ul>
-        <br><br>
     {{ end }}
 
 {{ end }}
