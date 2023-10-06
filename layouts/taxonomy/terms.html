@@ -4,8 +4,14 @@
 
 <div>
 
-    {{ range .Pages }}
-        <kbd><a href="{{.Permalink}}" class="secondary"> <i class="bi bi-tag"></i> {{ .Title }} </a></kbd>
+    {{ if eq .Type "authors" }}
+        {{ range .Pages }}
+            <kbd><a href="{{.Permalink}}" class="secondary"> <i class="bi bi-person"></i> {{ .Title }} </a></kbd>
+        {{ end }}
+    {{ else if eq .Type "tags" }}
+        {{ range .Pages }}
+            <kbd><a href="{{.Permalink}}" class="secondary"> <i class="bi bi-tag"></i> {{ .Title }} </a></kbd>
+        {{ end }}
     {{ end }}
 
 </div>

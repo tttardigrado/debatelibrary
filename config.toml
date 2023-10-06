@@ -5,6 +5,7 @@ title = "Debate Library"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+  author = 'authors'
 
 
 [menu]
@@ -14,22 +15,22 @@ title = "Debate Library"
     pre = 'bi-trophy'
     weight = 10
 [[menu.main]]
-    name = 'Motions'
-    pageRef = '/categories/motions'
-    pre = 'bi-file-earmark-text'
-    weight = 20
-[[menu.main]]
     name = 'Workshops'
     pageRef = '/categories/workshops'
     pre = 'bi-easel'
-    weight = 30
-[[menu.main]]
-    name = 'Other Resources'
-    pageRef = '/others'
-    pre = 'bi-three-dots'
-    weight = 40
+    weight = 20
 [[menu.main]]
     name = 'Tags'
     pageRef = '/tags'
     pre = 'bi-tags'
-    weight = 50
+    weight = 30
+[[menu.main]]
+    name = 'Authors'
+    pageRef = '/authors'
+    pre = 'bi-person'
+    weight = 40
+[[menu.main]]
+    name = 'Other Resources'
+    pageRef = '/others'
+    pre = 'bi-three-dots'
+    weight = 100
