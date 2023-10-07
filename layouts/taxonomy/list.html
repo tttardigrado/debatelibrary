@@ -9,15 +9,18 @@
     {{ $kind := .Title }}
 
     {{ range sort .Pages ".Params.year" "desc" }}
-        <ul>
+        
             {{ if eq $kind "tournaments" }}
-                <li><a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a></li>
-            {{ else if eq $kind "motions" }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                <article class="list-card">
+                    <a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a>
+                    <span>{{ .Params.year }}</span>
+                </article>
             {{ else if eq $kind "workshops" }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                <article class="list-card">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    <span>{{ .Params.year }}</span>
+                </article>
             {{ end }}
-        </ul>
     {{ end }}
 
 {{ else }}
