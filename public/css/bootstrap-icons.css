@@ -1,0 +1,37 @@
+@font-face {
+  font-display: block;
+  font-family: "bootstrap-icons";
+  src: url("/fonts/bootstrap-icons.woff2") format("woff2"), 
+       url("/fonts/bootstrap-icons.woff") format("woff");
+}
+
+.bi::before,
+[class^="bi-"]::before,
+[class*=" bi-"]::before {
+  display: inline-block;
+  font-family: bootstrap-icons !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  vertical-align: -.125em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bi-trophy-fill::before { content: "\f5e6"; }
+.bi-trophy::before { content: "\f5e7"; }
+.bi-file-earmark-text-fill::before { content: "\f38a"; }
+.bi-file-earmark-text::before { content: "\f38b"; }
+.bi-easel-fill::before { content: "\f30f"; }
+.bi-easel::before { content: "\f310"; }
+.bi-tag-fill::before { content: "\f5af"; }
+.bi-tag::before { content: "\f5b0"; }
+.bi-patch-check-fill::before { content: "\f4b5"; }
+.bi-patch-check::before { content: "\f4b6"; }
+.bi-tags-fill::before { content: "\f5b1"; }
+.bi-tags::before { content: "\f5b2"; }
+.bi-three-dots::before { content: "\f5d4"; }
+.bi-person::before { content: "\f4e1"; }
+

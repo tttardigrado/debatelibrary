@@ -3,13 +3,11 @@
 {{ if eq .Type "categories" }}
     <h1>{{ .Title | humanize }}</h1>
 
-    {{ $kind := .Title }}
-
-    {{ $paginator := .Paginator }}
-    {{ range sort $paginator.Pages ".Params.year" "desc" }}
+    {{ range sort .Paginator.Pages ".Params.year" "desc" }}
         {{ partial "cards/card.html" . }}
     {{ end }}
-    {{ partial "paginate.html" $paginator }}
+    
+    {{ partial "paginate.html" . }}
 
 {{ else }}
     <h1>{{ .Type | singularize | humanize }}:&nbsp;&nbsp;{{ humanize .Title }}</h1>

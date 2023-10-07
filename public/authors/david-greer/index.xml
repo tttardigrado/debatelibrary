@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Greer on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/authors/david-greer/</link>
+    <description>Recent content in David Greer on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/authors/david-greer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medição de Impactos</title>
+      <link>http://debatelibrary.netlify.app/workshops/medi%C3%A7%C3%A3o_de_impactos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/medi%C3%A7%C3%A3o_de_impactos/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

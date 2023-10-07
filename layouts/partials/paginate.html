@@ -1,7 +1,77 @@
-{{ if $paginator.HasPrev }}
-  <li class="pagination__item pagination__item--previous">
-    <a href="{{ $paginator.Prev.URL }}" class="pagination__link pagination__link--previous">
-      «
-    </a>
-  </li>
+{{ $page := .Paginator }}
+
+<!-- Number of links either side of the current page. -->
+{{ $adjacent_links := 2 }}
+
+<!-- $max_links = ($adjacent_links * 2) + 1 -->
+{{ $max_links := (add (mul $adjacent_links 2) 1) }}
+
+<!-- $lower_limit = $adjacent_links + 1 -->
+{{ $lower_limit := (add $adjacent_links 1) }}
+
+<!-- $upper_limit = $page.TotalPages - $adjacent_links -->
+{{ $upper_limit := (sub $page.TotalPages $adjacent_links) }}
+
+<!-- If there's more than one page. -->
+{{ if gt $page.TotalPages 1 }}
+
+    <div class="paginate">
+
+        <!-- Previous page. -->
+        {{ if $page.HasPrev }}
+            <a href="{{ $page.Prev.URL }}">«</a>
+        {{ end }}
+  
+        <!-- Page numbers. -->
+        {{ range $page.Pagers }}
+    
+            {{ $.Scratch.Set "page_number_flag" false }}
+
+            <!-- Advanced page numbers. -->
+            {{ if gt $page.TotalPages $max_links }}
+
+                <!-- Lower limit pages. If the user is on a page which is in the lower limit.  -->
+                {{ if le $page.PageNumber $lower_limit }}
+
+                    <!-- If the current loop page is less than max_links. -->
+                    {{ if le .PageNumber $max_links }}
+                        {{ $.Scratch.Set "page_number_flag" true }}
+                    {{ end }}
+
+                <!-- Upper limit pages. If the user is on a page which is in the upper limit. -->
+                {{ else if ge $page.PageNumber $upper_limit }}
+
+                    <!-- If the current loop page is greater than total pages minus $max_links -->
+                    {{ if gt .PageNumber (sub $page.TotalPages $max_links) }}
+                        {{ $.Scratch.Set "page_number_flag" true }}
+                    {{ end }}
+
+                <!-- Middle pages. -->
+                {{ else }}
+
+                    {{ if and ( ge .PageNumber (sub $page.PageNumber $adjacent_links) ) ( le .PageNumber (add $page.PageNumber $adjacent_links) ) }}
+                        {{ $.Scratch.Set "page_number_flag" true }}
+                    {{ end }}
+                
+                {{ end }}
+
+      
+            <!-- Simple page numbers. -->
+            {{ else }}
+                {{ $.Scratch.Set "page_number_flag" true }}
+            {{ end }}
+
+            <!-- Output page numbers. -->
+            {{ if eq ($.Scratch.Get "page_number_flag") true }}
+                <a href="{{ .URL }}" class="{{ if eq . $page }} curent {{ end }}">{{ .PageNumber }}</a>
+            {{ end }}
+
+        {{ end }}
+
+        <!-- Next page. -->
+        {{ if $page.HasNext }}
+            <a href="{{ $page.Next.URL }}">»</a>
+        {{ end }}
+
+    </div>
 {{ end }}

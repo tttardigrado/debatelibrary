@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Environment on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/tags/environment/</link>
+    <description>Recent content in Environment on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/tags/environment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THW ban zoos</title>
+      <link>http://debatelibrary.netlify.app/tournaments/eudc_2022/round_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/tournaments/eudc_2022/round_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECAQ os ataques promovidos contra obras de arte prejudicam o Movimento Ambientalista (Ex.: Just Stop Oil)</title>
+      <link>http://debatelibrary.netlify.app/tournaments/distrital_do_porto_2022/final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/tournaments/distrital_do_porto_2022/final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EC acredita que é do interesse da defesa animal a implementação das regras de caça da Namíbia</title>
+      <link>http://debatelibrary.netlify.app/tournaments/tornadu_2022/final/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/tournaments/tornadu_2022/final/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>THW apply universal jurisdiction to crimes against the environment</title>
+      <link>http://debatelibrary.netlify.app/tournaments/wudc_2023/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/tournaments/wudc_2023/showcase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
