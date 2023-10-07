@@ -1,59 +1,45 @@
 {{ define "main" }}
 
 {{ if eq .Type "categories" }}
-    <hgroup>
-        <h1>{{ humanize .Title }}</h1>
-        <hr>
-    </hgroup>
+    <h1>{{ .Title | humanize }}</h1>
 
     {{ $kind := .Title }}
 
     {{ range sort .Pages ".Params.year" "desc" }}
-        
-            {{ if eq $kind "tournaments" }}
-                <article class="list-card">
-                    <a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a>
-                    <span>{{ .Params.year }}</span>
-                </article>
-            {{ else if eq $kind "workshops" }}
-                <article class="list-card">
-                    <a href="{{ .Permalink }}">{{ .Title }}</a>
-                    <span>{{ .Params.year }}</span>
-                </article>
-            {{ end }}
+        {{ partial "cards/card.html" . }}
     {{ end }}
 
 {{ else }}
-    <hgroup>
-        <h1>{{ .Type | singularize | humanize }}:&nbsp;&nbsp;{{ humanize .Title }}</h1>
-        <hr>
-    </hgroup>
+    <h1>{{ .Type | singularize | humanize }}:&nbsp;&nbsp;{{ humanize .Title }}</h1>
 
     {{ with where .Pages "Params.categories" "intersect" (slice "workshops") }}
         <h2>Workshops</h2>
-        <ul>
-            {{ range . }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>        
-            {{ end }}
-        </ul>
+
+        {{ range . }}
+            {{ partial "cards/card.html" . }}        
+        {{ end }}
+        
+        <br>
     {{ end }}
 
     {{ with where .Pages "Params.categories" "intersect" (slice "tournaments") }}
         <h2>Tournaments</h2>
-        <ul>
-            {{ range . }}
-                <li><a href="{{ .Permalink }}">{{ .Title }} {{ mod .Params.year 100 }}</a></li>
-            {{ end }}
-        </ul>
+
+        {{ range . }}
+            {{ partial "cards/card.html" . }}
+        {{ end }}
+
+        <br>
     {{ end }}
 
     {{ with where .Pages "Params.categories" "intersect" (slice "motions") }}
         <h2>Motions</h2>
-        <ul>
-            {{ range . }}
-                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-            {{ end }}
-        </ul>
+
+        {{ range . }}
+            {{ partial "cards/card.html" . }}
+        {{ end }}
+
+        <br>
     {{ end }}
 
 {{ end }}

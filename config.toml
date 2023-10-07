@@ -29,8 +29,3 @@ title = "Debate Library"
     pageRef = '/authors'
     pre = 'bi-person'
     weight = 40
-[[menu.main]]
-    name = 'Other Resources'
-    pageRef = '/others'
-    pre = 'bi-three-dots'
-    weight = 100

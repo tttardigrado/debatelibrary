@@ -21,16 +21,16 @@
                 </li>
             {{ end }}
 
-            {{ partial "by.html" . }}
+            {{ partial "lists/by.html" . }}
 
-            {{ partial "tags.html" . }}
+            {{ partial "lists/tags.html" . }}
         </ul>
     </details>
 </section>
 
 <section>
     {{ range .Params.links }}
-        {{ partial "video_card.html" . }}
+        {{ partial "cards/video_card.html" . }}
     {{ end }}
 </section>
 

@@ -13,7 +13,7 @@
         {{ .Params.title }}
     </h3>
 
-    {{ partial "tags2.html" . }}
+    {{ partial "lists/tags2.html" . }}
 
     {{ with .Params.infoSlide }}
         <details open>
@@ -29,7 +29,7 @@
         <h3>Recordings of the Round:</h3>
 
         {{ range . }}
-            {{ partial "video_card.html" . }}
+            {{ partial "cards/video_card.html" . }}
         {{ end }}
 
     </section>
