@@ -5,9 +5,11 @@
 
     {{ $kind := .Title }}
 
-    {{ range sort .Pages ".Params.year" "desc" }}
+    {{ $paginator := .Paginator }}
+    {{ range sort $paginator.Pages ".Params.year" "desc" }}
         {{ partial "cards/card.html" . }}
     {{ end }}
+    {{ partial "paginate.html" $paginator }}
 
 {{ else }}
     <h1>{{ .Type | singularize | humanize }}:&nbsp;&nbsp;{{ humanize .Title }}</h1>
