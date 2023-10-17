@@ -3,9 +3,10 @@
         <small>
             <strong>CA Team: </strong>    
             {{ range $ca := . }}
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/{{ anchorize $ca }}">
-                        <i class="bi bi-person"></i> {{ $ca }}
+                        <i class="bi bi-person"></i>
+                        <span data-pagefind-filter="author">{{ $ca }}</span>
                     </a>
                 </kbd>
             {{ end }}

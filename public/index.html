@@ -11,7 +11,8 @@
     <link rel="stylesheet" href="/css/bootstrap-icons.css">
 
     
-    
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
 
     <link rel="stylesheet" href="/css/style.css">
     <title>Debate Library</title>
@@ -42,15 +43,27 @@
 </nav><main class="container" style="width: 90vw; margin: auto">
 
 
+<div type="text" id="search"></div>
+
 <div class="center">
-    <hgroup >
+    <hgroup>
         <h1>Debate Library</h1>
         <h2 class="typewriter">All of the debate resources you need</h2>
     </hgroup>
 </div>
 
-<div type="text" id="search"></div>
-
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI(
+            { element: "#search"
+            , showSubResults: true
+            , showEmptyFilters: false
+            , excerptLength: 0
+            , showImages: false
+            }
+        );
+    });
+</script>
 
 
         </main></body>

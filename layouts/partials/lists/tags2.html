@@ -3,9 +3,10 @@
         Tags:
         <small>
             {{ range $tag := . }}
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/{{ anchorize $tag }}">
-                        <i class="bi bi-tag"></i> {{ $tag }}
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">{{ $tag }}</span>></span>
                     </a>
                 </kbd>
             {{ end }}

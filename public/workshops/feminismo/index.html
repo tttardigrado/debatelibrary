@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="/css/bootstrap-icons.css">
 
     
-    
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
 
     <link rel="stylesheet" href="/css/style.css">
     <title>Debate Library</title>
@@ -40,8 +41,8 @@
     </ul>
 </nav><main class="container" style="width: 90vw; margin: auto">
 
-<section>
-    <h3 data-pagefind-meta="title">Feminismo</h3>
+<section data-pagefind-body data-pagefind-filter="kind:Workshop">
+    <h2 data-pagefind-meta="title">Feminismo</h2>
 
     <details open>
         <summary class="secondary">Workshop Details</summary>
@@ -61,9 +62,10 @@
         <small>
             <strong>By: </strong>    
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/sofia-narciso">
-                        <i class="bi bi-person"></i> Sofia Narciso
+                        <i class="bi bi-person"></i> 
+                        <span data-pagefind-filter="author">Sofia Narciso</span>
                     </a>
                 </kbd>
             
@@ -76,15 +78,17 @@
         <strong>Tags: </strong>
         <small>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/social-movements">
-                        <i class="bi bi-tag"></i> Social Movements
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">Social Movements</span>></span>
                     </a>
                 </kbd>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/feminism">
-                        <i class="bi bi-tag"></i> Feminism
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">Feminism</span>></span>
                     </a>
                 </kbd>
             

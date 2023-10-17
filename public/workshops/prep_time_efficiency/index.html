@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="/css/bootstrap-icons.css">
 
     
-    
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
 
     <link rel="stylesheet" href="/css/style.css">
     <title>Debate Library</title>
@@ -40,8 +41,8 @@
     </ul>
 </nav><main class="container" style="width: 90vw; margin: auto">
 
-<section>
-    <h3 data-pagefind-meta="title">Prep Time Efficiency</h3>
+<section data-pagefind-body data-pagefind-filter="kind:Workshop">
+    <h2 data-pagefind-meta="title">Prep Time Efficiency</h2>
 
     <details open>
         <summary class="secondary">Workshop Details</summary>
@@ -66,15 +67,17 @@
         <small>
             <strong>By: </strong>    
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/jacklin-kwan">
-                        <i class="bi bi-person"></i> Jacklin Kwan
+                        <i class="bi bi-person"></i> 
+                        <span data-pagefind-filter="author">Jacklin Kwan</span>
                     </a>
                 </kbd>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/lucie-slamova">
-                        <i class="bi bi-person"></i> Lucie Slamova
+                        <i class="bi bi-person"></i> 
+                        <span data-pagefind-filter="author">Lucie Slamova</span>
                     </a>
                 </kbd>
             
@@ -87,9 +90,10 @@
         <strong>Tags: </strong>
         <small>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/debate">
-                        <i class="bi bi-tag"></i> Debate
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">Debate</span>></span>
                     </a>
                 </kbd>
             

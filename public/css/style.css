@@ -62,8 +62,8 @@ article a { color: var(--contrast); }
     align-items: center;
     justify-content: space-between;
     width: 95%;
-    max-width: 1130px;
-    margin: 1rem auto;
+    max-width: 20rem;
+    margin: 1.5rem auto 0;
 }
 
 /* TYPEWRITER */
@@ -87,3 +87,7 @@ article a { color: var(--contrast); }
   from, to { border-color: transparent }
   50% { border-color: var(--primary) }
 }
+
+
+/* PAGEFIND */
+.pagefind-ui__result-excerpt { display: none !important; }

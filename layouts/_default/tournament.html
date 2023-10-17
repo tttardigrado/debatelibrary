@@ -9,11 +9,11 @@
 </nav>
 
 
-<section>
-    <h3> 
+<section data-pagefind-body data-pagefind-filter="kind:Tournament">
+    <h2 data-pagefind-meta="title"> 
         {{ .Title }} {{ mod .Params.year 100 }}
         {{ if .Params.isMajor }} <small><i class="bi bi-patch-check"></i></small> {{ end }}
-    </h3>
+    </h2>
 
     
     <details open>

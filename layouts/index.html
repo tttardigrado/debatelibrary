@@ -1,14 +1,26 @@
 {{ define "main" }}
 
 
+<div type="text" id="search"></div>
+
 <div class="center">
-    <hgroup >
+    <hgroup>
         <h1>Debate Library</h1>
         <h2 class="typewriter">All of the debate resources you need</h2>
     </hgroup>
 </div>
 
-<div type="text" id="search"></div>
-
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI(
+            { element: "#search"
+            , showSubResults: true
+            , showEmptyFilters: false
+            , excerptLength: 0
+            , showImages: false
+            }
+        );
+    });
+</script>
 
 {{ end }}

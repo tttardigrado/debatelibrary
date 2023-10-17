@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="/css/bootstrap-icons.css">
 
     
-    
+    <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+    <script src="/pagefind/pagefind-ui.js"></script>
 
     <link rel="stylesheet" href="/css/style.css">
     <title>Debate Library</title>
@@ -40,8 +41,8 @@
     </ul>
 </nav><main class="container" style="width: 90vw; margin: auto">
 
-<section>
-    <h3 data-pagefind-meta="title">Geopolítica Internacional</h3>
+<section data-pagefind-body data-pagefind-filter="kind:Workshop">
+    <h2 data-pagefind-meta="title">Geopolítica Internacional</h2>
 
     <details open>
         <summary class="secondary">Workshop Details</summary>
@@ -61,9 +62,10 @@
         <small>
             <strong>By: </strong>    
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/andr%c3%a9-carvalho">
-                        <i class="bi bi-person"></i> André Carvalho
+                        <i class="bi bi-person"></i> 
+                        <span data-pagefind-filter="author">André Carvalho</span>
                     </a>
                 </kbd>
             
@@ -76,21 +78,24 @@
         <strong>Tags: </strong>
         <small>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/international-relations">
-                        <i class="bi bi-tag"></i> International Relations
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">International Relations</span>></span>
                     </a>
                 </kbd>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/politics">
-                        <i class="bi bi-tag"></i> Politics
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">Politics</span>></span>
                     </a>
                 </kbd>
             
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/tags/security-war-and-military">
-                        <i class="bi bi-tag"></i> Security, War and Military
+                        <i class="bi bi-tag"></i>
+                        <span data-pagefind-filter="tag">Security, War and Military</span>></span>
                     </a>
                 </kbd>
             

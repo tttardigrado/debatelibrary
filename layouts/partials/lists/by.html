@@ -3,9 +3,10 @@
         <small>
             <strong>By: </strong>    
             {{ range $by := . }}
-                <kbd data-pagefind-filter="filter">
+                <kbd>
                     <a href="/authors/{{ anchorize $by }}">
-                        <i class="bi bi-person"></i> {{ $by }}
+                        <i class="bi bi-person"></i> 
+                        <span data-pagefind-filter="author">{{ $by }}</span>
                     </a>
                 </kbd>
             {{ end }}

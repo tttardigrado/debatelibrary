@@ -1,5 +1,5 @@
 [
-    { "name"   : "EUDC"
+    { "name"   : "EUDC 23"
     , "tab"    : "https://eudc2023.calicotab.com/"
     , "ca"     : ["Hadar Goldberg", "Milos Marjanovic", "Geneva Roy", "Josef Moscovici", "Klaudia Maciejewska"]
     , "isMajor": true
@@ -106,7 +106,7 @@
       }      
     ]},
 
-    { "name"   : "EUDC"
+    { "name"   : "EUDC 22"
     , "tab"    : "https://eudc2022.calicotab.com/"
     , "ca"     : ["Emma Lucas", "Matt Hazell", "Klaudia Maciejewska", "Lior Sokol", "Marta Vasić", "Mukhtar Tashkenbayev"]
     , "isMajor": true
@@ -201,7 +201,7 @@
       }
     ]},
 
-    { "name"   : "WUDC"
+    { "name"   : "WUDC 23"
     , "tab"    : ""
     , "ca"     : ["Klaudia Maciejewska", "Njuguna Macharia", "Ruth Silcoff", "Sher May Nar", "Jessica Musulin", "Lovro Šprem", "SOURODIP PAUL"]
     , "isMajor": true
@@ -320,7 +320,7 @@
       }
     ]},
 
-    { "name"   : "TorNaDU"
+    { "name"   : "TorNaDU 22"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/tornadu_2022/"
     , "ca"     : ["Hermione", "Bee Barbosa", "Frederico Oliveira", "Tomás Correia"]
     , "isMajor": false
@@ -379,7 +379,7 @@
       }
     ]},
 
-    { "name"   : "TorNaDU"
+    { "name"   : "TorNaDU 23"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/tornadu_2023/"
     , "ca"     : ["Marília Montenegro", "Tomás Correia", "Sofia Narciso", "André Carvalho", "Pedro Falcone"]
     , "isMajor": false
@@ -432,7 +432,7 @@
       }
     ]},
 
-    { "name"   : "Open do Porto"
+    { "name"   : "Open do Porto 23"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/open_porto_2023/"
     , "ca"     : ["Ana Lopes", "Gabi Werdan", "Bee Barbosa", "Maria Greer"]
     , "isMajor": false
@@ -491,7 +491,7 @@
       }
     ]},
 
-    { "name"   : "Interno de Verão ADAUM"
+    { "name"   : "Interno de Verão ADAUM 22"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/interno_verao_adaum_2022/"
     , "ca"     : ["Bee Barbosa", "Marcelo Campos", "Gonçalo Gaia"]
     , "isMajor": false
@@ -532,7 +532,7 @@
       }
     ]},
 
-    { "name"   : "Interno de Inverno ADAUM"
+    { "name"   : "Interno de Inverno ADAUM 22"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/interno_adaum_2022/"
     , "ca"     : ["Gonçalo Teixeira", "Rodrigo Dinis", "Maria João Alves", "Tomás Correia"]
     , "isMajor": false
@@ -573,7 +573,7 @@
       }
     ]},
 
-    { "name"   : "Distrital do Porto"
+    { "name"   : "Distrital do Porto 22"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/distrital_porto_2022/"
     , "ca"     : ["Hermione", "Gabi Werdan", "Frederico Oliveira"]
     , "isMajor": false
@@ -620,7 +620,7 @@
       }
     ]},
 
-    { "name"   : "Open da Católica"
+    { "name"   : "Open da Católica 23"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/open_catolica_porto_2023/"
     , "ca"     : ["Marcelo Campos", "Filipe Gírio", "Ana Lopes", "André Rodrigues"]
     , "isMajor": false
@@ -679,7 +679,7 @@
       }
     ]},
 
-    { "name"   : "Interno de Verão ADAUM"
+    { "name"   : "Interno de Verão ADAUM 23"
     , "tab"    : "https://debatecompetitivo.herokuapp.com/open_catolica_porto_2023/"
     , "ca"     : ["Marcelo Campos", "Hermione", "João Torres", "Ana Lopes"]
     , "isMajor": false
@@ -718,5 +718,570 @@
       , "tags"     : ["Psycology", "Media"]
       , "videos"   : []
       }      
+    ]},
+
+    { "name"   : "António Cândido"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/jornadas"
+    , "ca"     : ["Maria João Alves", "Maria Greer", "Rodrigo Ferreira", "Francisco Mendonça"]
+    , "isMajor": false
+    , "year"   : 2023
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Amarante"
+    , "motions": [
+      { "motion"   : "EC prefere o colectivismo ao individualismo"
+      , "infoslide": "Individualismo é um conceito político, moral, ético e social que exprime a afirmação e a liberdade do indivíduo face ao colectivo (sociedade ou ao Estado). Opondo-se ao sacrifício do indivíduo por um colectivo.\n\nColetivismo é a filosofia segundo a qual todos os seres humanos são interdependentes entre si. Outras ideias são a priorização do espírito de grupo, o sacrifício do indivíduo pelo colectivo e a narrativa de que cada ser humano não é necessariamente especial mas faz parte de uma engrenagem social maior que o indivíduo."
+      , "round"    : "Round 1"
+      , "tags"     : ["Ethics", "Philosophy", "The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC implementaria uma solução de mediação penal para pequena e média criminalidade em Portugal"
+      , "infoslide": "A mediação penal é uma solução alternativa ao julgamento tradicional, cujo objectivo é resolver o conflito através de um acordo, cujo conteúdo é livremente fixado pelo arguido e pelo ofendido, embora não possa incluir sanções privativas da liberdade ou deveres que ofendam a dignidade do arguido. O acordo obtido através da mediação penal tem obrigatoriamente que ser revisto pelo Ministério Público, para verificação da sua legalidade"
+      , "round"    : "Round 2"
+      , "tags"     : ["Justice System"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC não revelaria a informação ao mundo"
+      , "infoslide": "És uma fonte fiável e descobres a prova irrefutável de que Deus não existe"
+      , "round"    : "Round 3"
+      , "tags"     : ["Religion", "Ethics"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ a Classe Média Global deve adotar uma visão niilista sobre a vida"
+      , "infoslide": "Niilismo existencial argumenta que a vida é sem sentido objetivo, propósito ou valor intrínseco.\n\nNo que diz respeito ao universo, o niilismo existencial postula que um único ser humano ou mesmo toda a espécie humana é insignificante."
+      , "round"    : "Round 4"
+      , "tags"     : ["The Human Experience", "Philosophy"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC eliminaria o sistema de eleição por círculos eleitorais em Portugal, substituindo-o por um modelo de eleição nacional, proporcional"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Politics"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open de Verão 23"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/open_verao_porto_2023/"
+    , "ca"     : ["Frederico Oliveira", "Hermione", "Gonçalo Teixeira", "Afonso Cardo", "Rui Rodrigues"]
+    , "isMajor": false
+    , "year"   : 2023
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Porto"
+    , "motions": [
+      { "motion"   : "ECL a glorificação da Hustle Culture no HipHop"
+      , "infoslide": ""
+      , "round"    : "Round 1"
+      , "tags"     : ["Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia a criação e divulgação ativa de contas de redes sociais e plataformas (canais de Youtube, podcasts, entre outros) que se opõem direta e agressivamente aos canais que divulgam os valores do Patriarcado (ex. Andrew Tate, Jordan Peterson, Sigma Male Grindset)"
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Media", "Feminism", "Social Movements"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC implementaria o modelo britânico de financiamento estudantil"
+      , "infoslide": "No modelo britânico de financiamento estudantil, os estudantes tem direito a um empréstimo do governo que cobre o custo total dos seus estudos universitários, (incluindo custos de estudante deslocado). Começam a reembolsá-lo no momento em auferem acima do salário médio britânico, com pagamentos que chegam a 9% dos seus rendimentos acima deste patamar por ano. Não há penalização por não-reembolso, e os empréstimos são anulados após 30 anos"
+      , "round"    : "Round 3"
+      , "tags"     : ["Education", "Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "Independentemente da veracidade científica, EC lamenta a narrativa de 'Nascemos assim' ('Born this way')"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["LGBTQIA+", "Social Movements"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia a adaptação póstuma de obras para corrigir expressões atualmente tidas como problemáticas"
+      , "infoslide": ""
+      , "round"    : "Round 5"
+      , "tags"     : ["Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto vegan, adotaria uma postura reducionista em detrimento de uma postura abolicionista"
+      , "infoslide": "Veganismo é uma posição moral que se opõe a explorar, ou a prejudicar de alguma outra maneira, os animais não humanos. Esta postura inclui, mas não se restringe à alimentação\n\nUma postura reducionista encara qualquer redução de sofrimento animal como positiva (ex.: vegetarianismo, regulamentação, jaulas maiores, redução de consumm, etc.).\n\nUma postura abolicionista advoga a favor de toda a libertação animal e abolição da opressão em todas as suas formas, o mais depressa possível."
+      , "round"    : "Final"
+      , "tags"     : ["Veganism"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open de Coimbra 22"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/7_open_coimbra_2022/"
+    , "ca"     : ["Filipe Gírio", "Maria João Alves", "Sofia Narciso"]
+    , "isMajor": false
+    , "year"   : 2022
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Coimbra"
+    , "motions": [
+      { "motion"   : "EC proibiria o acesso ao registo criminal para efeitos laborais e de acesso a cargos públicos"
+      , "infoslide": "O registo criminal é um registo que contém todos os crimes pelos quais um indivíduo foi condenado e que se consideram ainda relevantes. Dependendo da gravidade do crime e da pena aplicada também varia o tempo em que essa condenação consta no registo criminal. Um registo criminal limpo é um requisito comum em processos de recrutamento profissional ou no acesso a cargos públicos."
+      , "round"    : "Round 1"
+      , "tags"     : ["Justice System"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECL a ascensão do consumo de Jornalismo Cidadão"
+      , "infoslide": "Jornalismo Cidadão é um jornal onde cidadãos, sem formação jornalística, praticam um papel ativo no processo de recolha, reportagem, análise ou disseminação de notícias e informação. Recentemente, o crescimento e estabelecimento deste jornalismo tem sido feito possível graças a várias plataformas online."
+      , "round"    : "Round 2"
+      , "tags"     : ["Media"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECL a popularização de representações de violência vingativa feminina"
+      , "infoslide": "A violência vingativa feminina é frequentemente retratada nos media como mulheres a cometerem atos violentos, em geral como resposta a trauma causado por homens. Alguns exemplos incluem 'Kill Bill', 'Girl with the Dragon Tattoo', ou Amy Dunne from 'Gone Girl'."
+      , "round"    : "Round 3"
+      , "tags"     : ["Media", "Feminism"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC baniria o mercado de créditos de carbono"
+      , "infoslide": "Os créditos de carbono são uma autorização para que uma empresa ou um país emita gases de efeito estufa até determinado limite. Quem polui e emite mais emissões tem que comprar créditos. Quem emite menos emissões pode vender os seus créditos extras. Cada crédito corresponde a uma tonelada de dióxido de carbono (CO2). O artigo 6 do Acordo de Paris — tratado global de 2015 que busca reduzir as emissões de carbono e manter o aquecimento do planeta até 2ºC — trata da criação de um mercado global de carbono, tendo sido instituídos mercados reguladores na União Europeia, Reino Unido e no estado da Califórnia, bem como projetos de implementação na China e na Coreia do Sul com apoio da UE. Para além do mercado regulador que regula a atividade dos países, há um mercado voluntário a que empresas comprometidas à causa se podem juntar"
+      , "round"    : "Round 4"
+      , "tags"     : ["Economics", "Environment"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC aboliria a regra de Goldwater"
+      , "infoslide": "Nos anos 60, Goldwater foi um candidato à presidência dos estados unidos, alvo de um ataque mediático intenso. Este ataque foi particularmente influente devido à predominância de psiquiátras, nos seus comentários políticos, apontarem traços de psicopatia a Goldwater. A herança deste fenómeno resultou na criação da regra de Goldwater pela American Psychiatric Association que considera como uma falha de conduta ética profissionais da saúde mental comentarem sobre o estado psicológico de figuras públicas ou partilharem informação sigilosa sobre estes. Este debate voltou a ser influente devido às polémicas semelhantes com Donald Trump, e recentemente, a Vladimir Putin"
+      , "round"    : "Round 5"
+      , "tags"     : ["Psycology", "Politics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia a adoção de um modelo de jurisdições complementares "
+      , "infoslide": "O modelo de jurisdições complementares é um modelo no qual um Estado (tendencialmente em países ocidentais) delega algumas das suas funções jurídicas a tribunais religiosos de comunidades minoritárias (ex.: a muçulmana) para que estas resolvam conflitos que surjam no seio desta comunidade (p.e. em matéria de casamento e divórcio, comércio e mediação). Estes tribunais nunca poderiam privar os indivíduos sob sua jurisdição dos direitos reconhecidos a todos os cidadãos. A sujeição à jurisdição das ordens jurídicas minoritárias é voluntária. Um exemplo, o Conselho da Sharia da Mesquita Central de Birmingham"
+      , "round"    : "Semis"
+      , "tags"     : ["Justice System"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a glorificação dos whistleblowers"
+      , "infoslide": "Whistleblower corresponde à pessoa, grupo ou organização que, estando na posse de informações sobre um perigo, risco, má conduta ou atividade ilegal de pessoas, grupos ou organizações expõe publicamente essas informações, na expectativa de iniciar um processo de regulação, controvérsia ou mobilização coletiva (ex.: Julian Assange, Rui Pinto, Edward Snowden)"
+      , "round"    : "Novice Final"
+      , "tags"     : ["Media"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC opõe-se à ideologia do globalismo"
+      , "infoslide": "A ideologia do globalismo trata-se de uma perspetiva internacionalista que defende a existência de um mundo integrado à escala global. O Globalismo pauta-se pelo reforço das organizações internacionais e formas de integração transnacional, defende o comércio e transações globais e assenta em questões de interdependência económica. A globalização económica pode-se definir com um aumento de globalismo"
+      , "round"    : "Final"
+      , "tags"     : ["International Relations"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open do Minho 22"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/open_minho_2022/"
+    , "ca"     : ["Bruno da Costa Santos", "Marília Montenegro", "Afonso Cardo"]
+    , "isMajor": false
+    , "year"   : 2022
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Braga"
+    , "motions": [
+      { "motion"   : "EC lamenta o fenómeno de nómadas digitais"
+      , "infoslide": "Nómade digital é um indivíduo que aproveita a tecnologia para realizar as tarefas da sua profissão de maneira remota e ao não depender de uma base fixa para trabalhar, conduz o seu estilo de vida de uma maneira a migrar com facilidade"
+      , "round"    : "Round 1"
+      , "tags"     : ["Technology", "Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC proibiria instituições de ensino privado (ex: colégios, centros de estudo, tutores, universidades privadas etc)"
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Economics", "Education"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC aplaude a visão de que perturbações mentais advém de desequilíbrios bioquímicos"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["Psycology", "Health"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC proibiria a comercialização de arte produzida por AIs"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["Technology", "Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a narrativa religiosa da salvação"
+      , "infoslide": ""
+      , "round"    : "Round 5"
+      , "tags"     : ["Religion", "The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC adotaria a postura que o aquecimento global já não é mais reversível em detrimento da que ainda podemos fazer algo para mudar"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Environment"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto emigrante, abdicaria dos seus hábitos culturais para integrar os do seu novo país de morada."
+      , "infoslide": ""
+      , "round"    : "Novice Final"
+      , "tags"     : ["Minority Communities"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto movimento feminista, incentivaria todas as mulheres a sabotar o Mundial do Qatar"
+      , "infoslide": ""
+      , "round"    : "Final"
+      , "tags"     : ["Sports", "Feminism"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open do Porto 22"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/open_porto_2022/"
+    , "ca"     : ["Bruno da Costa Santos", "Gonçalo Gaia", "Natacha Moreira", "Gabriel Affonso"]
+    , "isMajor": false
+    , "year"   : 2022
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Porto"
+    , "motions": [
+      { "motion"   : "EC limitaria o exercício de cargos associativos a uma só associação (sociedade de debates, concelhos jovens, juventudes partidárias, associação de estudantes, associações de escuteiros...)"
+      , "infoslide": ""
+      , "round"    : "Round 1"
+      , "tags"     : ["Freedoms"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ o humor só deve ser feito por quem possui as características (cultura, traços físicos,...) a que se refere"
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Art and Culture", "Minority Communities"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto instituição religiosa, não aceitaria crentes abaixo da idade de consentimento"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["Religion"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ que as fandoms fazem mais bem do que mal"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["Media", "Pop Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ a União Europeia deve obrigar os Estados-Membros a acolher refugiados de todos os conflitos armados"
+      , "infoslide": ""
+      , "round"    : "Round 5"
+      , "tags"     : ["European Union", "International Relations"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto movimento ambientalista, usaria fake news e dados exagerados para consciencializar a população"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Environment", "Social Movements", "Media"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a domesticação dos animais para fins recreativos (animais de estimação, circo, zoo, desporto, etc.)."
+      , "infoslide": ""
+      , "round"    : "Novice Final"
+      , "tags"     : ["Environment"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ esta tecnologia é a melhor solução para as relações tóxicas."
+      , "infoslide": "Existe uma tecnologia, acessível a todas as pessoas, que permite aos utilizadores avaliar com quem têm ou tiveram uma relação (amorosa, amizade, familiar, ...), tendo a outra pessoa uma pontuação resultante da média de todas as avaliações. Essa avaliação pode conter uma justificação escrita. É possível fazer mais do que uma avaliação da mesma pessoa"
+      , "round"    : "Final"
+      , "tags"     : ["Family and Relationships"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Regional de Lisboa 23"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/regional_lisboa_2023/"
+    , "ca"     : ["David Greer", "Alexandre Ji", "Maria João Alves", "Rodrigo Ferreira"]
+    , "isMajor": false
+    , "year"   : 2023
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Lisboa"
+    , "motions": [
+      { "motion"   : "EC preferiria viver num mundo em que toda a arte é anónima."
+      , "infoslide": "Num mundo em que toda a arte é anónima, sabemos o nome artístico dos autores de uma obra, mas não sabemos o seu nome verdadeiro ou informação sobre os seus atributos, vida pessoal ou estilo de vida."
+      , "round"    : "Round 1"
+      , "tags"     : ["Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC criaria um canal televisivo público de transmissão de audiências de julgamento"
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Media", "Justice System"]
+      , "videos"   : []
+      },
+      { "motion"   : "Assumindo que podemos medir o contributo de cada elemento do agregado familiar, EC subsidiaria o membro do agregado familiar que ficasse encarregue das tarefas domesticas do lar"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["Economics", "Family and Relationships"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia a criação de campeões nacionais"
+      , "infoslide": "Campeões nacionais são grandes corporações privadas que, acreditando que poderão vir a ser multinacionais com muita relevância na economia, os Estados através da sua política governamental beneficiam, tendo estas privilégios que lhes dão vantagem no mercado (por ex. acesso privilegiado a credito por via do estado se oferecer como fiador, benefícios fiscais etc..)."
+      , "round"    : "Round 4"
+      , "tags"     : ["Development", "Business", "Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECA apenas recrutaria colónos ateus para os esforços de colonização espacial e baniria quaisquer simbolos religiosos"
+      , "infoslide": "Anos de esforços de exploração espacial tiveram sucesso a encontrar um planeta habitável, o qual o Planeta Terra quer colonizar. No entanto, quem decidir embarcar neste esforço de colonização espacial tem apenas uma viagem de ida, significando que não voltarão a ter contacto com o Planeta Terra."
+      , "round"    : "Round 5"
+      , "tags"     : ["Religion", "The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia o movimento 'Nova História'."
+      , "infoslide": "O movimento Nova História tem como fim o reaproveitamento de espaços/edifícios históricos atribuindo-lhes uma utilidade nova. Implicando frequentemente uma alteração significativa e irreversível destes espaços histórico-culturais. (Ex. Hotéis em castelos, Discotecas em Palácios)."
+      , "round"    : "Semis"
+      , "tags"     : ["History"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia o grupo 'Tudo pelo Ambiente!'"
+      , "infoslide": "O grupo 'Tudo pelo Ambiente!' recorre à utilização de violência contra infraestruturas e pessoas com motivações politico ideológicas tendo um fim de activismo ambiental"
+      , "round"    : "Final"
+      , "tags"     : ["Environment"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open do Tejo 22"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/iv_tejo_2022/"
+    , "ca"     : ["Alexandra Pardal", "Ana Lopes", "Filipe Gírio", "Rodrigo Ferreira"]
+    , "isMajor": false
+    , "year"   : 2022
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Lisboa"
+    , "motions": [
+      { "motion"   : "EC lamenta a narrativa de que devemos fazer aquilo que realmente gostamos"
+      , "infoslide": ""
+      , "round"    : "Round 1"
+      , "tags"     : ["The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a continuação de desenvolvimento de Inteligência Artificial que torne o trabalho humano inútil ou obsoleto."
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Technology"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a expansão da União Europeia a Leste"
+      , "infoslide": "A partir de 2004, iniciou-se um processo de expansão da União Europeia para o leste europeu, que incluiu a adesão de: Polónia, República Checa, Hungria, Eslováquia, Eslovénia, Estónia, Letónia, Lituânia; Bulgária e Roménia; e Croácia, entre outros"
+      , "round"    : "Round 3"
+      , "tags"     : ["European Union", "International Relations"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC aboliria toda a propriedade intelectual"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC proibiria o pagamento de resgates por parte de governos ou indíviduos"
+      , "infoslide": ""
+      , "round"    : "Round 5"
+      , "tags"     : ["Ethics", "Morality", "Security, War and Military"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC nacionalizaria todas as instituições financeiras basilarmente importantes, tais como bancos e seguradoras"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Economics", "Development"]
+      , "videos"   : []
+      },
+      { "motion"   : "Em contextos pós-conflito, EC prefere a criação de arte que mostre mensagens de unidade e inspiração, em detrimento de arte que retrate o sofrimento anterior"
+      , "infoslide": ""
+      , "round"    : "Novice Final"
+      , "tags"     : ["Art and Culture", "Security, War and Military"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta o enfoque em figuras proeminentes nas abordagens históricas"
+      , "infoslide": ""
+      , "round"    : "Final"
+      , "tags"     : ["History"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Interno de Inverno ADAUM 21"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/interno_adaum_2021"
+    , "ca"     : ["Frederico Oliveira", "André Carvalho", "Natacha Moreira"]
+    , "isMajor": false
+    , "year"   : 2021
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : "Braga"
+    , "motions": [
+      { "motion"   : "EC apoia a integração das artes e do espetáculo na escolaridade obrigatória, incluindo avaliação obrigatória para média final"
+      , "infoslide": ""
+      , "round"    : "Round 1"
+      , "tags"     : ["Education", "Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a crescente presença do niilismo na pop culture (incluindo, mas mão limitado a: séries como Bojack Horseman e Rick and Morty, músicos como Earl Sweatshirt, cartoons e memes, etc)"
+      , "infoslide": "Niilismo é o ponto de vista que considera que as crenças e os valores tradicionais são infundados e que não há qualquer sentido ou utilidade na existência"
+      , "round"    : "Round 2"
+      , "tags"     : ["Pop Culture", "Art and Culture", "Philosophy"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC acabaria com todas as restrições â exibição de nudez em qualquer tipo de suporte (p. ex. filmes, tv, billboards, revistas, etc)"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["Art and Culture"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC implementaria percentagens significativas de pessoas pertencentes a grupos minoritários nos painéis de nomeação dos principais prémios artísticos (Grammys, Oscars, Tonys, Emmys...)"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["Art and Culture", "Minority Communities"]
+      , "videos"   : []
+      },
+      { "motion"   : "Em contextos pós-conflito, EC prefere a criação de arte que mostre mensagens de unidade e inspiração, em detrimento de arte que retrate o sofrimento anterior"
+      , "infoslide": ""
+      , "round"    : "Final"
+      , "tags"     : ["Art and Culture", "Security, War and Military"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Open Centro Sul"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/open_centro_sul_2021/"
+    , "ca"     : ["Afonso Fernandes", "Filipe Gírio", "Bee Barbosa", "Sofia Narciso"]
+    , "isMajor": false
+    , "year"   : 2021
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : ""
+    , "motions": [
+      { "motion"   : "EC lamenta a existência de coding nos media"
+      , "infoslide": "Coding é um termo que se refere a utilização de características implícitas de um personagem para ser interpretada como membro de um grupo identitário nos media. A forma mais discutida popularmente é Queer coding, em que a identidade sexual pode não ser explicitamente confirmada dentro da obra respetiva, mas pode ser codificado enquanto Queer através do uso de traços de personalidade e estereótipos reconhecíveis pela audiência como traços exagerados femininos ou masculinos, vaidade ou hipersexualidade (e.g.Scar, Hades, Úrsula na Disney; Xena, Warrior Princess; Ryan Evans do High School Musical). Este fenómeno é também comum para outros grupos minoritários, como para pessoas dentro do espetro do autismo (e.g. Sheldon Cooper em Big Bang Theory, Newt Scamander em Fantastic Beasts and Where to Find Them)."
+      , "round"    : "Round 1"
+      , "tags"     : ["Minority Communities", "Art and Culture", "Media", "Pop Culture", "LGBTQIA+"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC estabeleceria subsídios equivalentes ao salário mínimo nacional para trabalhadores domésticos a tempo inteiro"
+      , "infoslide": ""
+      , "round"    : "Round 2"
+      , "tags"     : ["Family and Relationships", "Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECA que países e regiões ocupadas não deviam auxiliar poderes ocupantes em perseguir membros do seu grupo identitário com o objetivo de mitigar e moderar os abusos desses poderes"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["Security, War and Military"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC obrigaria todas as organizações de notícias a operar enquanto organizações sem fins lucrativos"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["Media"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECA que polícias poderiam não respeitar ordens por motivos de consciência"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Security, War and Military", "Morality"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC lamenta a popularização da narrativa de que a felicidade depende exclusivamente dos esforços e motivação do indivíduo"
+      , "infoslide": "Para os efeitos deste debate, entende-se felicidade como um estado duradouro de plenitudesatisfação e equilibrio físico e psíquico e motivação como um impulso interno que dirige o indivíduo para a ação"
+      , "round"    : "Novice Final"
+      , "tags"     : ["The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "Assumindo que poderia ser realizado de forma pacífica,EC substituiria todas as formas de governo estabelecidas por um único governo democrático global"
+      , "infoslide": ""
+      , "round"    : "Final"
+      , "tags"     : ["Politics", "International Relations"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "Queen in the North"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/"
+    , "ca"     : ["Ana Lopes", "Frederico Oliveira", "Gonçalo Gaia", "Natacha Moreira"]
+    , "isMajor": false
+    , "year"   : 2021
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : ""
+    , "motions": [
+      { "motion"   : "EC acredita que memes políticos fazem mais mal do que bem"
+      , "infoslide": ""
+      , "round"    : "Round 1"
+      , "tags"     : ["Media", "Politics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC, enquanto adepto de futebol, preferia que os clubes de futebol seguissem o modelo A em detrimento de B"
+      , "infoslide": "O Clube A é um clube controlado pelos seus adeptos, com um passado glorioso mas com pouco sucesso desportivo recente e com alguma falta de dinheiro. Apesar disso, respeita as tradições do que deve ser um clube de futebol, tendo uma grande massa adepta no seu apoio.\n\nO Clube B foi comprado por um grupo de investidores liderado pelo fundo soberano da Arábia Saudita, de forma a criar uma super-equipa capaz de competir no topo da sua liga e por várias competições internacionais. Isto implica um investimento volumoso por parte do fundo, muito superior a qualquer equipa do seu campeonato"
+      , "round"    : "Round 2"
+      , "tags"     : ["Sports"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia o intervencionismo americano no Médio Oriente"
+      , "infoslide": ""
+      , "round"    : "Round 3"
+      , "tags"     : ["International Relations", "Security, War and Military", "Middle East"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC prefere um mundo onde memórias são gravadas com precisão e disponíveis para rever posteriormente."
+      , "infoslide": "Existe uma máquina capaz de digitalizar as memórias do ser humano para serem revistas posteriormente. Neste mundo, qualquer pessoa pode consultar as suas memórias, armazenadas num chip colocado na sua cabeça, que pode ser emparelhado a dispositivos tecnológicos. Desta forma, podem ser consultadas pelo próprio ou por outros, com o seu consentimento"
+      , "round"    : "Round 4"
+      , "tags"     : ["Technology", "The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECA que pessoas deveriam escolher as suas carreiras de acordo com as suas paixões em detrimento de establidade económica"
+      , "infoslide": ""
+      , "round"    : "Semis"
+      , "tags"     : ["Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC aplaude a criação de governos tecnocratas em detrimento dos governos atuais"
+      , "infoslide": "Tecnocracia é um sistema de governo no qual os decisores políticos são eleitos pela população ou nomeados com base na sua perícia numa determinada área de responsabilidade, particularmente no que diz respeito aos conhecimentos científicos ou técnicos. Estes decisores políticos são seleccionados com base em conhecimentos especializados, em vez de filiações políticas ou competências parlamentares"
+      , "round"    : "Novice Final"
+      , "tags"     : ["Politics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC apoia as medidas de segurança nas universidades aprovadas pelo parlamento grego"
+      , "infoslide": "No inicio de 2021, a Grécia aprovou uma reforma no seu parlamento com vista a uma maior presença policial nas universidades para servir de controlo aos comportamentos violentos de alunos. Esta proposta deve-se à elevada presença de grupos políticos extremistas nestes espaços. Recentemente, têm ocorrido manifestações face ao que os estudantes consideram ser um ataque à sua liberdade de expressão, existindo um historial de tensões entre os universitários e a policia grega desde 1973."
+      , "round"    : "Final"
+      , "tags"     : ["Education", "Security, War and Military"]
+      , "videos"   : []
+      }
+    ]},
+
+    { "name"   : "III Digital de Coimbra"
+    , "tab"    : "https://debatecompetitivo.herokuapp.com/iii_open_digital_coimbra_2021"
+    , "ca"     : ["Danilo Andrade", "Guilherme Pereira", "Júlia Yaegashi", "Maria Laura", "Tomás Correia"]
+    , "isMajor": false
+    , "year"   : 2021
+    , "lang"   : "Portuguese"
+    , "country": "Portugal"
+    , "city"   : ""
+    , "motions": [
+      { "motion"   : "EC aplicaria o IRPA a produtos comercializados em território brasileiro."
+      , "infoslide": "O Índice de Reajuste de Preços da Amazônia (IRPA), métrica desenvolvida pelo MapBiomas, tem como base a razão entre a média do desmatamento detectado no período atual na Floresta Amazônica com o equivalente ao mesmo período do ano anterior, sendo atualizado semanalmente. O IRPA, portanto, incidiria reajustando o preço final ao consumidor em produtos nacionais e importados cuja produção emite CO2."
+      , "round"    : "Round 1"
+      , "tags"     : ["Environment", "Economics"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC implementaria o policiamento 'Olho no Céu' em áreas urbanas com altos índices de criminalidade"
+      , "infoslide": "O policiamento “Olho no Céu” envolve voar constantemente drones inaudíveis sobre grandes áreas. Os drones tiram fotos de toda a área e permitem vigilância constante e em tempo real. A resolução da imagem não permite a identificação de detalhes, como rostos de pessoas ou a leitura de placas, sendo porém identificáveis a movimentação de pessoas e traços abrangentes (gênero, cor da pele, altura etc.)."
+      , "round"    : "Round 2"
+      , "tags"     : ["Security, War and Military"]
+      , "videos"   : []
+      },
+      { "motion"   : "EC preferiria viver em um mundo com a existência de um metaverso."
+      , "infoslide": "Conceito importado da ficção científica, o metaverso se configura como uma plataforma digital 3D ou 4D que funde realidade virtual aumentada, redes sociais e internet na qual normas sociais apartadas do mundo real são possíveis, bem como uma economia particular e a criação de uma segunda vida, regulada e limitada pelos desenvolvedores da tecnologia. Diferentemente dos jogos on-line, no metaverso os usuários vivenciam experiências assumindo uma realidade paralela"
+      , "round"    : "Round 3"
+      , "tags"     : ["Technology", "The Human Experience"]
+      , "videos"   : []
+      },
+      { "motion"   : "ECAQ os EUA deveriam adotar uma nova investida militar frente ao Talibã"
+      , "infoslide": ""
+      , "round"    : "Round 4"
+      , "tags"     : ["International Relations", "Security, War and Military", "Middle East"]
+      , "videos"   : []
+      },
+      { "motion"   : "Enquanto país em desenvolvimento, EC alocaria parte significativa de seus investimentos em P&D no financiamento de núcleos privados (startups, laboratórios de inovação etc.) em detrimento de núcleos estatais (fundações, institutos de ciência aplicada etc.)."
+      , "infoslide": ""
+      , "round"    : "Round 5"
+      , "tags"     : ["Economics", "Development", "Business"]
+      , "videos"   : []
+      }
     ]}
 ]
