@@ -4,7 +4,7 @@ infoslide: "The Israeli Judicial Reform led by the Netanyahu government seeks to
 round: "Round 4"
 weight: 4
 videos: ['aM1m-GhzN7s']
-tags: ['Israel - Palestine', 'Politics', 'Justice System']
+tags: ['Politics', 'Justice System']
 layout: "motion"
 categories: ["motions"]
 ---

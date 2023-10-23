@@ -4,7 +4,7 @@ infoslide: "Para os efeitos deste debate, entende-se como um tratado de paz entr
 round: "Round 3"
 weight: 2
 videos: []
-tags: ['Russia - Ukraine', 'Security, War and Military', 'International Relations', 'European Union']
+tags: ['Security, War and Military', 'International Relations', 'European Union']
 layout: "motion"
 categories: ["motions"]
 ---

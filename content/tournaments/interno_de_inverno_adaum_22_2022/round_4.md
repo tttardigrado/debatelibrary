@@ -6,7 +6,7 @@ A Autoridade Palestiniana é uma coligação partidária moderada, considerada, 
 round: "Round 4"
 weight: 4
 videos: []
-tags: ['Terrorism', 'International Relations', 'Security, War and Military', 'Israel - Palestine']
+tags: ['Terrorism', 'International Relations', 'Security, War and Military']
 layout: "motion"
 categories: ["motions"]
 ---

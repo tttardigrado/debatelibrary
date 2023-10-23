@@ -29,7 +29,7 @@
       { "motion"   : "This House Predicts that the Judicial Reform will lead to Netanyahu's Exit from Office"
       , "infoslide": "The Israeli Judicial Reform led by the Netanyahu government seeks to curb the judiciary's influence over lawmaking and public policy by limiting the Supreme Court's power to exercise judicial review and granting the government control over judicial appointments"
       , "round"    : "Round 4"
-      , "tags"     : ["Israel - Palestine", "Politics", "Justice System"]
+      , "tags"     : ["Politics", "Justice System"]
       , "videos"   : ["aM1m-GhzN7s"]
       },
       { "motion"   : "This House Would only provide state pensions to those mentally or physically unable to work"
@@ -77,7 +77,7 @@
       { "motion"   : "This House Opposes the strategy of deficit financing by Liberal Democracies"
       , "infoslide": "Deficit financing is a deliberate voluntary strategy used by governments to finance their budget deficits or shortfalls in revenue by borrowing money rather than reducing expenditures or increasing taxes, in order to achieve specific economic and social objectives."
       , "round"    : "Semis"
-      , "tags"     : ["Economy", "Politics", "Social Policy"]
+      , "tags"     : ["Economics", "Politics", "Social Policy"]
       , "videos"   : ["ZEn_RGIUKaQ"]
       },
       { "motion"   : "Assuming it can be done with no risk to humanity's existence, This House Believes That God should be killed"
@@ -101,7 +101,7 @@
       { "motion"   : "This House Predicts that Russia will not have control of most of the occupied and contested Ukrainian territories by the end of the war"
       , "infoslide": "* Such as the occupied territories in Donetsk, Luhansk, Kherson and Zaporizhzhia oblasts, Crimea, and the strategically significant contested territories (gray areas) such as Robotyne, Antonivskyi bridge, and Kreminna forest"
       , "round"    : "ESL Final"
-      , "tags"     : ["Russia - Ukraine", "International Relations", "Security, War and Military"]
+      , "tags"     : ["International Relations", "Security, War and Military"]
       , "videos"   : ["CwxWcOvZ6Wg"]
       }      
     ]},
@@ -397,7 +397,7 @@
       { "motion"   : "Assumindo que a Rússia e a Ucrânia ratificam um tratado de paz, ECA que a União Europeia deveria facilitar a concessão do estatuto de Estado-Membro à Ucrânia."
       , "infoslide": "Para os efeitos deste debate, entende-se como um tratado de paz entre a Rússia e a Ucrânia o retorno às fronteiras antes do início da invasão de 2022, com um compromisso de ambas as partes de não ameaçar a soberania nas zonas de confluência étnica."
       , "round"    : "Round 3"
-      , "tags"     : ["Russia - Ukraine", "Security, War and Military", "International Relations", "European Union"]
+      , "tags"     : ["Security, War and Military", "International Relations", "European Union"]
       , "videos"   : []
       },
       { "motion"   : "EC prefere um sistema judicial preventivo ao invés de um sistema judicial reativo na defesa dos princípios democráticos"
@@ -562,7 +562,7 @@
       { "motion"   : "ECAQ apoiar o Hamas é do interesse da comunidade Palestiniana"
       , "infoslide": "O Hamas é um grupo fundamentalista islâmico nacionalista e militante, que reivindica autoridade política na palestina e é considerado uma organização terrorista para um conjunto alargado de estados, fora do mundo árabe.\n\nA Autoridade Palestiniana é uma coligação partidária moderada, considerada, pelo mundo ocidental, como a autoridade política oficial no território palestiniano."
       , "round"    : "Round 4"
-      , "tags"     : ["Terrorism", "International Relations", "Security, War and Military", "Israel - Palestine"]
+      , "tags"     : ["Terrorism", "International Relations", "Security, War and Military"]
       , "videos"   : []
       },
       { "motion"   : "EC adotaria um modelo abolicionista mínimo"

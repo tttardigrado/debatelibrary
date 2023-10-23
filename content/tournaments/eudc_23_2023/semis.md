@@ -4,7 +4,7 @@ infoslide: "Deficit financing is a deliberate voluntary strategy used by governm
 round: "Semis"
 weight: 12
 videos: ['ZEn_RGIUKaQ']
-tags: ['Economy', 'Politics', 'Social Policy']
+tags: ['Economics', 'Politics', 'Social Policy']
 layout: "motion"
 categories: ["motions"]
 ---

@@ -4,7 +4,7 @@ infoslide: "* Such as the occupied territories in Donetsk, Luhansk, Kherson and 
 round: "ESL Final"
 weight: 16
 videos: ['CwxWcOvZ6Wg']
-tags: ['Russia - Ukraine', 'International Relations', 'Security, War and Military']
+tags: ['International Relations', 'Security, War and Military']
 layout: "motion"
 categories: ["motions"]
 ---
