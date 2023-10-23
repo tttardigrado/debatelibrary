@@ -2,6 +2,8 @@ baseURL = "http://debatelibrary.netlify.app"
 languageCode = "en-us"
 title = "Debate Library"
 
+paginate = 20
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
