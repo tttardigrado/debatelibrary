@@ -16,7 +16,7 @@ hugo
 
 # run pagefind to generate the search index
 ##### TODO:
-npx -y pagefind --site
+npx -y pagefind --site public
 
 # push to github and publish to netlify
 git add .
