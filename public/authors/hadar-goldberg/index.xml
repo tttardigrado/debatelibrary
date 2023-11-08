@@ -8,10 +8,19 @@
     <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/authors/hadar-goldberg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analysis Module</title>
-      <link>http://debatelibrary.netlify.app/workshops/analysis_module/</link>
+      <link>http://debatelibrary.netlify.app/workshops/analysis_modulehadar_goldberg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://debatelibrary.netlify.app/workshops/analysis_module/</guid>
+      <guid>http://debatelibrary.netlify.app/workshops/analysis_modulehadar_goldberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Burdens of Proof</title>
+      <link>http://debatelibrary.netlify.app/workshops/burdens_of_proofhadar_goldberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/burdens_of_proofhadar_goldberg/</guid>
       <description></description>
     </item>
     
@@ -21,6 +30,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/tournaments/eudc_23_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to address spec knowledge motions when you don&#39;t know the topic</title>
+      <link>http://debatelibrary.netlify.app/workshops/how_to_address_spec_knowledge_motions_when_you_dont_know_the_topichadar_goldberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/how_to_address_spec_knowledge_motions_when_you_dont_know_the_topichadar_goldberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to nail arguments about narratives, messages and symbols</title>
+      <link>http://debatelibrary.netlify.app/workshops/how_to_nail_arguments_about_narratives_messages_and_symbolshadar_goldberg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/how_to_nail_arguments_about_narratives_messages_and_symbolshadar_goldberg/</guid>
       <description></description>
     </item>
     

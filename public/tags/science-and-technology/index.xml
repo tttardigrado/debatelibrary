@@ -69,5 +69,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Artificial Intelligence</title>
+      <link>http://debatelibrary.netlify.app/workshops/artificial_intelligenceartem_sviridov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/artificial_intelligenceartem_sviridov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Big Tech</title>
+      <link>http://debatelibrary.netlify.app/workshops/big_techkarthik_bansal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/big_techkarthik_bansal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Technology</title>
+      <link>http://debatelibrary.netlify.app/workshops/blockchain_technologynicolas_lozano/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/blockchain_technologynicolas_lozano/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

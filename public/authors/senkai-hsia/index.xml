@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Senkai Hsia on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/authors/senkai-hsia/</link>
+    <description>Recent content in Senkai Hsia on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/authors/senkai-hsia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Delivering arguments</title>
+      <link>http://debatelibrary.netlify.app/workshops/delivering_argumentssenkai_hsia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/delivering_argumentssenkai_hsia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,4 +1,332 @@
 [
+    { "title"  : "Africa is Not a Country"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["AV9VrKjOzvc"]
+    , "slides" : ""
+    , "authors": ["Francois Brit"]
+    , "tags"   : ["Africa", "International Relations"]
+    },
+    { "title"  : "Extensions"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["L1LFVtoNsh0"]
+    , "slides" : ""
+    , "authors": ["James Stratton"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Contributing to panel discussions as a Wing or a Trainee"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["M1fWwfRs8gg"]
+    , "slides" : ""
+    , "authors": ["Matthew Conley Evans"]
+    , "tags"   : ["Judging"]
+    },
+    { "title"  : "Note taking for debaters and adjudicators"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["9jpgDmXAAaA"]
+    , "slides" : ""
+    , "authors": ["Noluthando Honono"]
+    , "tags"   : ["Debate", "Judging"]
+    },
+    { "title"  : "Relationships and How to Debate them"
+    , "lang"   : "English"
+    , "year"   : "2022"
+    , "links"   : ["hZf_IXv_33c"]
+    , "slides" : ""
+    , "authors": ["Tamar Ben Meir"]
+    , "tags"   : ["Family and Relationships"]
+    },
+    { "title"  : "Advanced Principles"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["3H78E2BoQ_s"]
+    , "slides" : ""
+    , "authors": ["Tin Puljić"]
+    , "tags"   : ["Debate", "Philosophy"]
+    },
+    { "title"  : "Social Justice Movements in South Asia"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["X_6yAQ2N-Jg"]
+    , "slides" : ""
+    , "authors": ["Pragyan Acharya"]
+    , "tags"   : ["Social Movements"]
+    },
+    { "title"  : "Peru and Narcotics"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["MQrjGVIlO5M"]
+    , "slides" : ""
+    , "authors": ["Sebastian Dasso"]
+    , "tags"   : ["Health", "Justice System"]
+    },
+    { "title"  : "Deputy Speeches"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["cWPaCyfHPAg"]
+    , "slides" : ""
+    , "authors": ["Rhys Steele"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Counter Factual Debates"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["_oFOqEF_u88"]
+    , "slides" : ""
+    , "authors": ["Chris Mentis"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Making Efficient Responses"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["oSinxBkrs88"]
+    , "slides" : ""
+    , "authors": ["Luigi Alcaneses"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Eastern Europe"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["14rHqJ3mLcY"]
+    , "slides" : ""
+    , "authors": ["Triinu Jõgi"]
+    , "tags"   : ["Europe", "Politics", "Economics", "International Relations"]
+    },
+    { "title"  : "Identifying and Analyzing Clashes"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["9f7kAYAJDZ0"]
+    , "slides" : ""
+    , "authors": ["David Africa"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Preparing for debate tournaments"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["vmu-2Q4j5wQ"]
+    , "slides" : ""
+    , "authors": ["Daniel Maier Gant"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Gender and Feminism"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["aBlbStqXuMY"]
+    , "slides" : ""
+    , "authors": ["Katherine Harris"]
+    , "tags"   : ["LGBTQIA+", "Feminism"]
+    },
+    { "title"  : "Adjudication"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["2QaGHEU4F3M"]
+    , "slides" : ""
+    , "authors": ["Apratim Shrivastav"]
+    , "tags"   : ["Judging"]
+    },
+    { "title"  : "How to address spec knowledge motions when you don't know the topic"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["Wq6-WxcYhbE"]
+    , "slides" : ""
+    , "authors": ["Hadar Goldberg"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Impacting Arguments and Using Examples"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["sMnv_1B3Lpg"]
+    , "slides" : ""
+    , "authors": ["Arghya Dev Biswas Aryan"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Media"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["2TqXx3KzAII"]
+    , "slides" : ""
+    , "authors": ["Klaudia Maciejewska"]
+    , "tags"   : ["Media"]
+    },
+    { "title"  : "Animal Rights"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["4lkWAI3-KJs"]
+    , "slides" : ""
+    , "authors": ["Parth Maniktala"]
+    , "tags"   : ["Veganism"]
+    },
+    { "title"  : "Education"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["RHMjjb5YwuE"]
+    , "slides" : ""
+    , "authors": ["Xiao Ke Lu"]
+    , "tags"   : ["Education"]
+    },
+    { "title"  : "How to win narrative debates"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["KkKL22gYWdA"]
+    , "slides" : ""
+    , "authors": ["Olja Bosnjak"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "How to win debates"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["IO2Uyf15Kjo"]
+    , "slides" : ""
+    , "authors": ["Udai Kamath"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Burdens of Proof"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["gihbX8zt8kM"]
+    , "slides" : ""
+    , "authors": ["Katharina Margareta Jansen"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Religion"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["0vdYdpFpDEo"]
+    , "slides" : ""
+    , "authors": ["Naomi Panovka"]
+    , "tags"   : ["Religion"]
+    },
+    { "title"  : "Understanding Intellectual Property"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["gMpRSGeZAPg"]
+    , "slides" : ""
+    , "authors": ["Devashish Trivedi"]
+    , "tags"   : ["Law"]
+    },
+    { "title"  : "Debating IR Rounds using IR Theories"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["Eg9Bx8X_nEU"]
+    , "slides" : ""
+    , "authors": ["Prashasti Saxena"]
+    , "tags"   : ["International Relations"]
+    },
+    { "title"  : "Whip Speeches"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["iZm7b_tIG4Q"]
+    , "slides" : ""
+    , "authors": ["Joseph Lewis"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Analyzing Actor Incentives"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["fNFOcp1UgxM"]
+    , "slides" : ""
+    , "authors": ["Yash Chaturvedi"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Framing and Characterization"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"   : ["IRR0-iQuy7U"]
+    , "slides" : ""
+    , "authors": ["Tin Puljić"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "The basics of case construction for BP debating"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["GMWZY7ndKpg"]
+    , "slides" : ""
+    , "authors": ["Irtza Soomro"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Sport Debates"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["y1v5zp08x0M"]
+    , "slides" : ""
+    , "authors": ["Jessica Musulin"]
+    , "tags"   : ["Sports"]
+    },
+    { "title"  : "Big Tech"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["MF7BVUR5ytE"]
+    , "slides" : ""
+    , "authors": ["Karthik Bansal"]
+    , "tags"   : ["Science and Technology", "Economics", "Business"]
+    },
+    { "title"  : "Artificial Intelligence"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["26tL5M7U7BA"]
+    , "slides" : ""
+    , "authors": ["Artem Sviridov"]
+    , "tags"   : ["Science and Technology"]
+    },
+    { "title"  : "Criminal Justice"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["OVM3rxQUgZY"]
+    , "slides" : ""
+    , "authors": ["Rachana Nagaraj"]
+    , "tags"   : ["Justice System"]
+    },
+    { "title"  : "Social Justice"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["1LFsGIjkQKc"]
+    , "slides" : ""
+    , "authors": ["Srijan Poudel"]
+    , "tags"   : ["Social Movements"]
+    },
+    { "title"  : "Applying Realism to IR Debates"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["0_WK0vyP0rQ"]
+    , "slides" : ""
+    , "authors": ["Avash Byanjankar"]
+    , "tags"   : ["International Relations"]
+    },
+    { "title"  : "Principles and Philosophy"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["4iTqd5K-SsI"]
+    , "slides" : ""
+    , "authors": ["Shruti Deb"]
+    , "tags"   : ["Philosophy"]
+    },
+    { "title"  : "Blockchain Technology"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["AELrljCVdCs"]
+    , "slides" : ""
+    , "authors": ["Nicolas Lozano"]
+    , "tags"   : ["Science and Technology"]
+    },
+    { "title"  : "Nepali Politics"
+    , "lang"   : "English"
+    , "year"   : "2021"
+    , "links"  : ["7iTKWfTjPg8"]
+    , "slides" : ""
+    , "authors": ["Pawan Adhikari"]
+    , "tags"   : ["Politics"]
+    },
+    { "title"  : "Feminism"
+    , "lang"   : "Nepali"
+    , "year"   : "2021"
+    , "links"  : ["6cq14Xsu9Y0"]
+    , "slides" : ""
+    , "authors": ["Ameesha Rayamajhi"]
+    , "tags"   : ["Feminism"]
+    },
     { "title"  : "Structuring Arguments"
     , "lang"   : "English"
     , "year"   : "2020"
@@ -246,6 +574,183 @@
     , "slides" : ""
     , "authors": ["André Carvalho"]
     , "tags"   : ["International Relations", "Politics", "Security, War and Military"]
+    },
+    { "title"  : "Burdens of Proof"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["qHX-PZQe2QQ"]
+    , "slides" : ""
+    , "authors": ["Hadar Goldberg"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Rebuttal"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["Ej_AmejU-XE"]
+    , "slides" : ""
+    , "authors": ["Josh Kemp"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Extension"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["dbyMZ7XBBNM"]
+    , "slides" : ""
+    , "authors": ["Amrit Agastia"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Motion Analysis"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["k8et5LMDbEc"]
+    , "slides" : ""
+    , "authors": ["Klaudia Maciejewska"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Strategy"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["OE5-wELvj3s"]
+    , "slides" : ""
+    , "authors": ["Jason Woods"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Delivering arguments"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["N7IZCx9-0Rg"]
+    , "slides" : ""
+    , "authors": ["Senkai Hsia"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Argument construction and nuance"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["zEkP7syyrtA"]
+    , "slides" : ""
+    , "authors": ["Xiao-ke Lu"]
+    , "tags"   : ["Debate"]
+    },
+
+    { "title"  : "Whip Speeches"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["EOsqwwlQmiI"]
+    , "slides" : ""
+    , "authors": ["Arth Mishra"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Legal Principles"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["xp0dKDD2_pA"]
+    , "slides" : ""
+    , "authors": ["Jessica Musulin"]
+    , "tags"   : ["Justice System"]
+    },
+    { "title"  : "How to use characterisation strategically"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["GJyVRnMHnrM"]
+    , "slides" : ""
+    , "authors": ["Ciara Mitchell"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Disability"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["oGBX_gGZKh8"]
+    , "slides" : ""
+    , "authors": ["Anna-Ruth Cockerham"]
+    , "tags"   : ["Minority Communities"]
+    },
+    { "title"  : "Debating Religion"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["rKmUu9I-xhQ"]
+    , "slides" : ""
+    , "authors": ["Hamza Tariq Chaudhry"]
+    , "tags"   : ["Religion"]
+    },
+    { "title"  : "International Law"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["767cJKxwXWo"]
+    , "slides" : ""
+    , "authors": ["Jason Xiao"]
+    , "tags"   : ["International Relations", "Justice System"]
+    },
+    { "title"  : "Types of motions, burdens, and effective prep time"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["pgtsRg5ZP3Q"]
+    , "slides" : ""
+    , "authors": ["Klaudia Maciejewska"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Moral Philosophy"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["wCyjIwiR9W4"]
+    , "slides" : ""
+    , "authors": ["Brian Wong"]
+    , "tags"   : ["Philosophy"]
+    },
+    { "title"  : "Social Justice Debates"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["6TQm3e_3EQg"]
+    , "slides" : ""
+    , "authors": ["Enting Lee"]
+    , "tags"   : ["Social Movements"]
+    },
+    { "title"  : "Extension Speeches"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["4REE9iC5MCw"]
+    , "slides" : ""
+    , "authors": ["Tin Puljić"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Trade in Central Asia"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["9QdecE6_c8s"]
+    , "slides" : ""
+    , "authors": ["Inkar Aitkuzhina"]
+    , "tags"   : ["Economics", "Business", "International Relations"]
+    },
+    { "title"  : "Arguing Principles"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["zC5IGMQTXdU"]
+    , "slides" : ""
+    , "authors": ["Nishith Hegde"]
+    , "tags"   : ["Philosophy"]
+    },
+    { "title"  : "How to nail arguments about narratives, messages and symbols"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["7iq247GGA_8"]
+    , "slides" : ""
+    , "authors": ["Hadar Goldberg"]
+    , "tags"   : ["Debate"]
+    },
+    { "title"  : "Big Corporations"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["acxDkeUi0Bs"]
+    , "slides" : ""
+    , "authors": ["Milos Marjanovic"]
+    , "tags"   : ["Economics", "Business"]
+    },
+    { "title"  : "PM Speeches"
+    , "lang"   : "English"
+    , "year"   : "2020"
+    , "links"   : ["j372wI-J4zI"]
+    , "slides" : ""
+    , "authors": ["Noam Dahan"]
+    , "tags"   : ["Debate"]
     },
     { "title"  : "Como debater moções de Economia"
     , "lang"   : "Portuguese"
