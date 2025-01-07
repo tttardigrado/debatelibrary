@@ -7,4 +7,4 @@ tags: ["Case File"]
 categories: ["casefiles"]
 ---
 
-{{< embed-pdf url="../ryan_matter_file.pdf" hidePaginator="true" hideLoader="true" >}}
+{{< embed-pdf url="../ryan_matter_file.pdf" hidePaginator="true" >}}

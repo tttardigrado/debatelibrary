@@ -21,14 +21,14 @@ enableInlineShortcodes = true
     pre = 'bi-easel'
     weight = 20
 [[menu.main]]
-    name = "Texts & Articles"
+    name = "Articles"
     pageRef = '/categories/posts'
-    pre = 'bi-substack'
+    pre = 'bi-card-text'
     weight = 30
 [[menu.main]]
     name = "Case Files"
     pageRef = "/categories/casefiles"
-    pre = "bi-card-text"
+    pre = "bi-archive"
     weight = 40
 [[menu.main]]
     name = 'Tags'
