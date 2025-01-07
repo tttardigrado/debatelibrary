@@ -4,30 +4,39 @@ title = "Debate Library"
 
 paginate = 20
 
+theme = ["hugo-embed-pdf-shortcode"]
+enableInlineShortcodes = true
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
   author = 'authors'
 
 
+
 [menu]
-[[menu.main]]
-    name = 'Tournaments'
-    pageRef = '/categories/tournaments'
-    pre = 'bi-trophy'
-    weight = 10
 [[menu.main]]
     name = 'Workshops'
     pageRef = '/categories/workshops'
     pre = 'bi-easel'
     weight = 20
 [[menu.main]]
+    name = "Texts & Articles"
+    pageRef = '/categories/posts'
+    pre = 'bi-substack'
+    weight = 30
+[[menu.main]]
+    name = "Case Files"
+    pageRef = "/categories/casefiles"
+    pre = "bi-card-text"
+    weight = 40
+[[menu.main]]
     name = 'Tags'
     pageRef = '/tags'
     pre = 'bi-tags'
-    weight = 30
+    weight = 50
 [[menu.main]]
     name = 'Authors'
     pageRef = '/authors'
     pre = 'bi-person'
-    weight = 40
+    weight = 60

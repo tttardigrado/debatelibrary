@@ -34,4 +34,5 @@
 .bi-tags::before { content: "\f5b2"; }
 .bi-three-dots::before { content: "\f5d4"; }
 .bi-person::before { content: "\f4e1"; }
-
+.bi-card-text::before { content: "\f228"; }
+.bi-substack::before { content: "\f8d7"; }

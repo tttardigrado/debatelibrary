@@ -4,19 +4,19 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # remove old content
-rm -rf ./content/tournaments
-rm -rf ./content/workshops
+#rm -rf ./content/tournaments
+#rm -rf ./content/workshops
 rm -rf ./public
 
 # generate new content
-debategen
+#debategen
 
 # build the static site with hugo
 hugo
 
 # run pagefind to generate the search index
 ##### TODO:
-npx -y pagefind --site public
+# npx -y pagefind --site public
 
 # push to github and publish to netlify
 git add .

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>posts on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/categories/posts/</link>
+    <description>Recent content in posts on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/categories/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I like motions about aliens and robots</title>
+      <link>http://debatelibrary.netlify.app/posts/why_i_like_motions_about_aliens_and_robots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/posts/why_i_like_motions_about_aliens_and_robots/</guid>
+      <description>Many motions about aliens and robots are really debates about meta-ethics in disguise. Without using any jargon or requiring formal training in philosophy, they make us consider genuinely novel entities, and ask ourselves what moral obligations we might owe to them (or they to us). They are ideal debates to test moral reasoning from first principles, and the ostensible absurdity of their premises makes many of the cliché arguments seem out of place.</description>
+    </item>
+    
+  </channel>
+</rss>

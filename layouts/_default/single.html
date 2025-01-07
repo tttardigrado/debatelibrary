@@ -1,2 +1,32 @@
 {{ define "main" }}
+
+<h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+<details open>
+  <summary class="secondary">Details</summary>
+  <ul>
+    {{ with .Params.lang }}
+      <li><strong>Language: </strong> {{ . }}</li>
+    {{ end }}
+            
+    {{ with .Params.year }}
+      <li><strong>Year: </strong> {{ . }} </li>
+    {{ end }}
+
+    {{ with .Params.from }}
+       <li>
+        <strong>From: </strong>
+        <a target="_blank" href="{{ . }}">{{ . }}</a>
+      </li>
+    {{ end }}
+
+    {{ partial "lists/by.html" . }}
+    {{ partial "lists/tags.html" . }}
+  </ul>
+</details>
+
+<br>
+
+{{ .Content }}
+
 {{ end }}
