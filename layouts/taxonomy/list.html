@@ -22,18 +22,8 @@
         <br>
     {{ end }}
 
-    {{ with where .Pages "Params.categories" "intersect" (slice "tournaments") }}
-        <h2>Tournaments</h2>
-
-        {{ range . }}
-            {{ partial "cards/card.html" . }}
-        {{ end }}
-
-        <br>
-    {{ end }}
-
-    {{ with where .Pages "Params.categories" "intersect" (slice "motions") }}
-        <h2>Motions</h2>
+    {{ with where .Pages "Params.categories" "intersect" (slice "posts") }}
+        <h2>Texts & Articles</h2>
 
         {{ range . }}
             {{ partial "cards/card.html" . }}

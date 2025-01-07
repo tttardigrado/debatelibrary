@@ -26,11 +26,6 @@ enableInlineShortcodes = true
     pre = 'bi-card-text'
     weight = 30
 [[menu.main]]
-    name = "Case Files"
-    pageRef = "/categories/casefiles"
-    pre = "bi-archive"
-    weight = 40
-[[menu.main]]
     name = 'Tags'
     pageRef = '/tags'
     pre = 'bi-tags'
