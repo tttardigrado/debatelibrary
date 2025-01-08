@@ -4,7 +4,7 @@ lang: "English"
 year: "2012"
 from: "https://trolleyproblem.blogspot.com/2012/01/why-i-like-motions-about-aliens-and.html"
 authors: ['Shengwu Li']
-tags: ["Philosophy", "Motion Setting"]
+tags: ["Philosophy", "CA"]
 categories: ["posts"]
 ---
 

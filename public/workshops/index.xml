@@ -7,6 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/workshops/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title> Structure and Clarity in your speech </title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/structure_clarity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/structure_clarity/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Adjudicação - Primeiro Ciclo</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_primeiro_ciclo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_primeiro_ciclo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Adjudicação - Segundo Ciclo</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_segundo_ciclo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_segundo_ciclo/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Adjudicação Avançada</title>
       <link>http://debatelibrary.netlify.app/workshops/cnadu/adjudicacao_avancada/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -34,12 +61,30 @@
     </item>
     
     <item>
+      <title>Advanced Strategy in BP Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/mccarthy/advanced_strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/mccarthy/advanced_strategy/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Análise de Moções e PrepTime</title>
       <link>http://debatelibrary.netlify.app/workshops/sddup/analise_de_mocoes_e_preptime/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/sddup/analise_de_mocoes_e_preptime/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title>Argumentation Module</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/argumentation_basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/argumentation_basics/</guid>
+      <description>Statements   Analysis   Impacts   First-tier vs Second-tier reasons   Common Mistakes   </description>
     </item>
     
     <item>
@@ -57,6 +102,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/cmdlp21/como_debater_mocoes_economia/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Como não ter um ataque de pânico em 1º governo</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/como_nao_ter_um_ataque_de_panico_em_1_gov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/como_nao_ter_um_ataque_de_panico_em_1_gov/</guid>
       <description>   </description>
     </item>
     
@@ -88,6 +142,15 @@
     </item>
     
     <item>
+      <title>Construção Argumentativa</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/construcao_argumentativa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/construcao_argumentativa/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Dicas básicas para ter sucesso num Debate</title>
       <link>http://debatelibrary.netlify.app/workshops/cmdlp21/dicas_basicas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,12 +178,66 @@
     </item>
     
     <item>
+      <title>Framing</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/framing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/framing/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>General Lessons on Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/general_lessons_on_debating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/general_lessons_on_debating/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Geopolítica Internacional</title>
       <link>http://debatelibrary.netlify.app/workshops/cnadu/geopolitica_internacional/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/cnadu/geopolitica_internacional/</guid>
       <description>   </description>
+    </item>
+    
+    <item>
+      <title>How to improve in Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/how_to_improve/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/how_to_improve/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>How to prepare to an international championship</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/how_to_prep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/how_to_prep/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Improving Analysis and Strategy</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/improving_analysis_and_strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/improving_analysis_and_strategy/</guid>
+      <description>     </description>
+    </item>
+    
+    <item>
+      <title>Judging Basics Module</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/judging_basics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/judging_basics/</guid>
+      <description>How to judge a debate   How to explain your decision   Personal feedback   Good panel management   What to NOT do as a judge   How to CA a competition   </description>
     </item>
     
     <item>
@@ -138,6 +255,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/cnadu/impactos/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Módulo de Argumentação</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/argumentacao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/argumentacao/</guid>
       <description>   </description>
     </item>
     
@@ -160,11 +286,74 @@
     </item>
     
     <item>
+      <title>Principled Arguments in BP Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/mccarthy/principled_arguments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/mccarthy/principled_arguments/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Realistic Characterisation in Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/realistic_characterisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/realistic_characterisation/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Rebuttal Module</title>
+      <link>http://debatelibrary.netlify.app/workshops/rumen/rebuttal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/rumen/rebuttal/</guid>
+      <description>Workshop   Drills     </description>
+    </item>
+    
+    <item>
       <title>Sociologia Clássica</title>
       <link>http://debatelibrary.netlify.app/workshops/cmdlp21/sociologia_classica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://debatelibrary.netlify.app/workshops/cmdlp21/sociologia_classica/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>State Power in BP Debating </title>
+      <link>http://debatelibrary.netlify.app/workshops/mccarthy/state_power/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/mccarthy/state_power/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Strategy and Metadebating</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/strat_and_meta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/strat_and_meta/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Temas que Competem à Esquerda Pós-Moderna por Tomás Correia</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/temas_esquerda_pos_moderna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/temas_esquerda_pos_moderna/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Tripartição Argumentativa</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/triparticao_arg/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/triparticao_arg/</guid>
       <description>   </description>
     </item>
     

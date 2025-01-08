@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Debate Library</title>
+    <link>http://debatelibrary.netlify.app/tags/strategy/</link>
+    <description>Recent content in Strategy on Debate Library</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://debatelibrary.netlify.app/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advanced Strategy in BP Debating</title>
+      <link>http://debatelibrary.netlify.app/workshops/mccarthy/advanced_strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/mccarthy/advanced_strategy/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>Improving Analysis and Strategy</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/improving_analysis_and_strategy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/improving_analysis_and_strategy/</guid>
+      <description>     </description>
+    </item>
+    
+    <item>
+      <title>Strategy and Metadebating</title>
+      <link>http://debatelibrary.netlify.app/workshops/senatus/strat_and_meta/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://debatelibrary.netlify.app/workshops/senatus/strat_and_meta/</guid>
+      <description>   </description>
+    </item>
+    
+  </channel>
+</rss>

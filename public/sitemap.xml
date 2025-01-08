@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/structure_clarity/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/about/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_primeiro_ciclo/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/adjudicacao_segundo_ciclo/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cnadu/adjudicacao_avancada/</loc>
   </url><url>
@@ -10,31 +16,53 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/adjuntos/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/mccarthy/advanced_strategy/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/ana-martins/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/andr%C3%A9-carvalho/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/analise_de_mocoes_e_preptime/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/argumentation/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/argumentation_basics/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/arthur-gandra/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/ary-ferreira-da-cunha/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/ayal-hayut-man/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/bee/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/bernardo-rabelo/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/bruno-da-costa-santos/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/ca/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/carolina-amorim/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/categories/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/characterisation/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/como_debater_em_bp/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cmdlp21/como_debater_mocoes_economia/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/como_nao_ter_um_ataque_de_panico_em_1_gov/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/como_nao_ter_um_ataque_de_panico/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/comparativas/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cnadu/comparatives/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/construcao_argumentativa/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/david-greer/</loc>
   </url><url>
@@ -46,17 +74,29 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/diogo-videira/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/dylan-mccarthy/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/tags/economics/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/eug%C3%AAnio-corassa/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/extensoes/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/fattha-mahmud/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/tags/feminism/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cmdlp21/feminismo/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/framing/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/framing/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/frederico-oliveira/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/gabriel-affonso/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/general_lessons_on_debating/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cnadu/geopolitica_internacional/</loc>
   </url><url>
@@ -64,15 +104,35 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/gon%C3%A7alo-teixeira/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/hamza-tariq-chaudhry/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/hermione/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/how_to_improve/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/how_to_prep/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/improving_analysis_and_strategy/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/tags/ir/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/tags/judging/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/judging_basics/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/cnadu/judging/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/lara-lacerda/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/left-wing/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/authors/leonardo-dayrell/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/lovro-%C5%A1prem/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/lucca-gabriel/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/luc%C3%ADa-arce/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/lu%C3%ADsa-taveira/</loc>
   </url><url>
@@ -82,11 +142,13 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/milla-huuskonen/</loc>
   </url><url>
-    <loc>http://debatelibrary.netlify.app/tags/motion-setting/</loc>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/argumentacao/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/olivia-sundberg-diez/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/pedro-gonz%C3%A1lez/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/pedro-lopes/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/tags/philosophy/</loc>
   </url><url>
@@ -94,11 +156,25 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/politica/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/postmodernism/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/posts/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/categories/posts/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/pm_e_lo/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/mccarthy/principled_arguments/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/principles/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/realistic_characterisation/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/rebuttal/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/rumen/rebuttal/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/rumen-marinov/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/shengwu-li/</loc>
   </url><url>
@@ -110,7 +186,23 @@
   </url><url>
     <loc>http://debatelibrary.netlify.app/authors/sofia-narciso/</loc>
   </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/mccarthy/state_power/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/strategy/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/strat_and_meta/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/structure/</loc>
+  </url><url>
     <loc>http://debatelibrary.netlify.app/tags/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/temas_esquerda_pos_moderna/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/authors/tom%C3%A1s-correia/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/tags/training/</loc>
+  </url><url>
+    <loc>http://debatelibrary.netlify.app/workshops/senatus/triparticao_arg/</loc>
   </url><url>
     <loc>http://debatelibrary.netlify.app/workshops/sddup/whips/</loc>
   </url><url>
