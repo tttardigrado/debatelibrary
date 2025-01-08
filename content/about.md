@@ -9,7 +9,7 @@ Madam Chair, the debaters all around the world, and no matter what country in wh
 They live under a dictatorship known as the lack of organized knowledge, shackled by not knowing about its existence, constrained by workshops and recorded rounds being spread across several obscure youtube channels, and chained by the fact that heroku has killed most of the tabs.
 They’re unable to reach out to their full potential as debaters.
 
-How are we going to define a **Debate Library** in this debate. We say that in all its forms, it shares the feature of wanting to organize debate knowledge in a single website. That’s what a **Debate Library** means. This knowledge can take the form of **Tournaments**, **Motions**, **Recorded Rounds** and **Workshops**.
+How are we going to define a **Debate Library** in this debate. We say that in all its forms, it shares the feature of wanting to organize debate knowledge in a single website. That’s what a **Debate Library** means. This knowledge can take various forms including **workshops**, **recorded rounds**, **blog posts**, **case files**, ...
 
 **Debate Library** has been inspired by multiple projects (such as [marxists.org](https://www.marxists.org/), [The Anarchist Library](https://theanarchistlibrary.org/) and [nLab](https://ncatlab.org/)) that share the goal of gathering and organizing knowledge about their specific domains.
 
@@ -29,7 +29,7 @@ The vast majority of the content on this website was not created by me. The **De
 
 * Styling: [Pico CSS](https://picocss.com/) and [BootStrap Icons](https://icons.getbootstrap.com/)
 
-* SSG: [Hugo](https://gohugo.io/) and custom python scripts
+* SSG: [Hugo](https://gohugo.io/)
 
 * Search: [PageFind](https://pagefind.app/)
 
